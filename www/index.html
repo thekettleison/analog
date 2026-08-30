@@ -160,6 +160,14 @@ If you enjoy this, please <a href="https://www.patreon.com/myanalogjournal/" tar
 <script src="https://www.youtube.com/iframe_api"></script>
 <script src="app.js"></script>
 
+<script>
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("./sw.js");
+    });
+}
+</script>
+
 </body>
 
 </html>

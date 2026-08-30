@@ -30,7 +30,7 @@ async function loadVideos() {
         videos = data.videos;
 
         // Pick something immediately on page load.
-        playRandom();
+playRandom(false);
 
         // And populate the five choices.
         renderChoices();
@@ -108,7 +108,7 @@ function thumbnailUrl(video) {
 }
 
 
-function playVideo(video) {
+function playVideo(video, addHistory = false) {
     currentVideo = video;
 
     player.src =
@@ -121,11 +121,13 @@ function playVideo(video) {
 
     status.textContent = "";
 
-    addToHistory(video);
+    if (addHistory) {
+        addToHistory(video);
+    }
 }
 
 
-function playRandom() {
+function playRandom(addHistory = true) {
     if (!videos.length) {
         return;
     }
@@ -141,7 +143,7 @@ function playRandom() {
         video.id === currentVideo?.id
     );
 
-    playVideo(video);
+    playVideo(video, addHistory);
 
     // Give us five new choices whenever we randomize.
     renderChoices();
@@ -199,7 +201,7 @@ function createCard(video, className) {
     button.appendChild(text);
 
     button.addEventListener("click", () => {
-        playVideo(video);
+        playVideo(video, true);
     });
 
     return button;

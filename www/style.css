@@ -1,5 +1,5 @@
 :root {
-color-scheme: light dark;
+color-scheme: light;
 
 --background: #f0eee5;
 --surface: rgba(255, 255, 255, 0.82);
@@ -20,9 +20,9 @@ color-scheme: light dark;
 }
 
 @media (prefers-color-scheme: dark) {
-
 :root {
-    --background: #101712;
+color-scheme: dark;
+    --background: #071a13; /* #101712; */
     --surface: rgba(24, 32, 27, 0.90);
     --surface-hover: rgba(32, 43, 35, 0.96);
     --border: rgba(188, 211, 191, 0.14);
@@ -77,7 +77,7 @@ body {
 min-height: 100vh;
 min-height: 100dvh;
 
-background-color: #071a13;
+background-color: var(--background);
 background-image: url("jungle-bg.svg");
 background-attachment: fixed;
 background-position: center;

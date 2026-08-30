@@ -158,6 +158,14 @@ letter-spacing: 0.02em;
 
 }
 
+a {
+color: var(--accent);
+}
+
+a:hover {
+color: var(--accent-hover);
+}
+
 /* --------------------------------
 Player + choices
 -------------------------------- */

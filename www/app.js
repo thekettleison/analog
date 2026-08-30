@@ -1,3 +1,6 @@
+let youtubePlayer = null;
+let historyRecordedForCurrentVideo = false;
+
 let videos = [];
 let currentVideo = null;
 
@@ -16,6 +19,35 @@ const randomizeChoicesButton =
     document.getElementById("randomizeChoices");
 
 
+/* --------------------------------
+   YouTube player
+   -------------------------------- */
+
+function onYouTubeIframeAPIReady() {
+    youtubePlayer = new YT.Player("player", {
+        events: {
+            onStateChange: onPlayerStateChange
+        }
+    });
+}
+
+
+function onPlayerStateChange(event) {
+    if (
+        event.data === YT.PlayerState.PLAYING &&
+        currentVideo &&
+        !historyRecordedForCurrentVideo
+    ) {
+        historyRecordedForCurrentVideo = true;
+        addToHistory(currentVideo);
+    }
+}
+
+
+/* --------------------------------
+   Load videos
+   -------------------------------- */
+
 async function loadVideos() {
     try {
         const response = await fetch("videos.json", {
@@ -29,10 +61,11 @@ async function loadVideos() {
         const data = await response.json();
         videos = data.videos;
 
-        // Pick something immediately on page load.
-playRandom(false);
+        // Pick something immediately on page load,
+        // but don't add it to Recent Listens yet.
+        playRandom(false);
 
-        // And populate the five choices.
+        // Populate the five choices.
         renderChoices();
 
     } catch (error) {
@@ -43,6 +76,10 @@ playRandom(false);
     }
 }
 
+
+/* --------------------------------
+   History
+   -------------------------------- */
 
 function getHistory() {
     try {
@@ -80,6 +117,10 @@ function addToHistory(video) {
 }
 
 
+/* --------------------------------
+   Formatting
+   -------------------------------- */
+
 function formatDate(dateString) {
     const date = new Date(dateString);
 
@@ -108,11 +149,20 @@ function thumbnailUrl(video) {
 }
 
 
-function playVideo(video, addHistory = false) {
+/* --------------------------------
+   Playback
+   -------------------------------- */
+
+function playVideo(video, addHistory = false, autoplay = true) {
     currentVideo = video;
 
+    historyRecordedForCurrentVideo = addHistory;
+
     player.src =
-        `https://www.youtube.com/embed/${video.id}?autoplay=1&rel=0`;
+        `https://www.youtube.com/embed/${video.id}` +
+        `?enablejsapi=1` +
+        `&autoplay=${autoplay ? 1 : 0}` +
+        `&rel=0`;
 
     title.textContent = video.title;
 
@@ -143,12 +193,18 @@ function playRandom(addHistory = true) {
         video.id === currentVideo?.id
     );
 
-    playVideo(video, addHistory);
+const autoplay = addHistory;
+
+    playVideo(video, addHistory, autoplay);
 
     // Give us five new choices whenever we randomize.
     renderChoices();
 }
 
+
+/* --------------------------------
+   Random choices
+   -------------------------------- */
 
 function getRandomChoices() {
     const available = videos.filter(
@@ -168,6 +224,10 @@ function getRandomChoices() {
     return shuffled.slice(0, RANDOM_CHOICES);
 }
 
+
+/* --------------------------------
+   Cards
+   -------------------------------- */
 
 function createCard(video, className) {
     const button = document.createElement("button");
@@ -208,6 +268,10 @@ function createCard(video, className) {
 }
 
 
+/* --------------------------------
+   Choices
+   -------------------------------- */
+
 function renderChoices() {
     if (!choicesList || !videos.length) {
         return;
@@ -224,6 +288,10 @@ function renderChoices() {
     }
 }
 
+
+/* --------------------------------
+   History display
+   -------------------------------- */
 
 function renderHistory() {
     if (!recentList) {
@@ -249,16 +317,25 @@ function renderHistory() {
 }
 
 
+/* --------------------------------
+   Buttons
+   -------------------------------- */
+
 randomButton.addEventListener(
     "click",
     playRandom
 );
+
 
 randomizeChoicesButton.addEventListener(
     "click",
     renderChoices
 );
 
+
+/* --------------------------------
+   Start
+   -------------------------------- */
 
 renderHistory();
 

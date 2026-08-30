@@ -1,0 +1,47 @@
+name: Update Videos
+
+on:
+  schedule:
+    # Run every day at 12:00 UTC
+    - cron: "0 12 * * *"
+
+  # Allows you to run it manually from GitHub
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-videos:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Update videos
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python update_videos.py
+
+      - name: Commit updated videos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add www/videos.json
+
+          git diff --cached --quiet || git commit -m "Update video list"
+
+          git push

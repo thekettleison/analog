@@ -10,7 +10,7 @@ load_dotenv()
 API_KEY = os.environ["YOUTUBE_API_KEY"]
 CHANNEL_HANDLE = "@MyAnalogJournal"
 
-OUTPUT_FILE = "/home/doot/analog/www/videos.json"
+OUTPUT_FILE = "www/videos.json"
 
 # Only include long-form sessions of 25 minutes or more.
 MIN_DURATION = 25 * 60

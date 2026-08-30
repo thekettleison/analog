@@ -6,7 +6,7 @@ color-scheme: light;
 --surface-hover: rgba(255, 255, 255, 0.96);
 --border: rgba(38, 65, 47, 0.16);
 
---foreground: #172019;
+--foreground: #347354; /* #f4f2e8;*/
 --muted: #667168;
 
 --accent: #286044;
@@ -15,7 +15,6 @@ color-scheme: light;
 
 --botanical: rgba(42, 93, 65, 0.075);
 --botanical-strong: rgba(42, 93, 65, 0.11);
-
 
 }
 
@@ -123,9 +122,8 @@ padding: 16px 0 28px;
 
 h1 {
 margin: 0;
-
-color: var(--foreground);
-
+color: var(--foreground) !important;
+-webkit-text-fill-color: var(--foreground) !important;
 font-family:
     "Shrikhand",
     "Iowan Old Style",

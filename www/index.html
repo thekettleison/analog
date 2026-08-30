@@ -66,9 +66,7 @@ If you enjoy this, please <a href="https://www.patreon.com/myanalogjournal/" tar
 <div class="main-grid">
 
     <section class="player-column">
-
         <div class="player-container">
-
             <iframe
                 id="player"
                 title="My Analog Journal"
@@ -108,30 +106,40 @@ If you enjoy this, please <a href="https://www.patreon.com/myanalogjournal/" tar
 
         <section class="choices">
 
-            <h3>Pick a Session</h3>
+    <h3 class="pick-heading">Search or Pick a Random Session</h3>
 
-            <div id="choicesList"></div>
+    <input
+        id="searchInput"
+        class="search-input"
+        type="search"
+        placeholder="Search a keyword..."
+        autocomplete="off">
 
-            <button
-                id="randomizeChoices"
-                class="secondary-button"
-                type="button">
+    <div id="searchResults"></div>
 
-                ↻ Randomize Picks
+    <div id="choicesList"></div>
 
-            </button>
+    <button
+        id="randomizeChoices"
+        class="secondary-button"
+        type="button">
 
-        <button
-            id="randomButton"
-            class="secondary-button"
-            type="button">
+        ↻ Randomize Picks
 
-            🎲  Surprise me
+    </button>
 
-        </button>
+    <button
+        id="randomButton"
+        class="secondary-button"
+        type="button">
+
+        🎲 Surprise me
+
+    </button>
+
+</section>
 
 
-        </section>
 
     </aside>
 

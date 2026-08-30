@@ -189,6 +189,55 @@ align-items: start;
 min-width: 0;
 }
 
+.search-input {
+    display: block;
+
+    width: 100%;
+
+    margin: 0 0 15px;
+
+    padding: 11px 16px;
+
+    border: 1px solid var(--border);
+    border-radius: 999px;
+
+    background: var(--surface);
+    color: var(--foreground);
+
+    font: inherit;
+    font-size: 14px;
+
+    outline: none;
+}
+
+
+.search-input::placeholder {
+    color: var(--muted);
+}
+
+
+.search-input:focus {
+    border-color: var(--accent);
+
+    box-shadow:
+        0 0 0 2px rgba(40, 96, 68, 0.12);
+}
+
+
+#searchResults {
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 8px;
+}
+
+
+.pick-heading {
+    margin-top: 0px !important;
+}
+
+
 /* --------------------------------
 Video
 -------------------------------- */

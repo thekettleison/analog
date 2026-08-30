@@ -8,6 +8,8 @@ const HISTORY_KEY = "analog-recently-played";
 const MAX_HISTORY = 8;
 const RANDOM_CHOICES = 5;
 
+const searchInput = document.getElementById("searchInput");
+const searchResults = document.getElementById("searchResults");
 const player = document.getElementById("player");
 const title = document.getElementById("title");
 const date = document.getElementById("date");
@@ -73,6 +75,34 @@ async function loadVideos() {
 
         status.textContent =
             "Could not load the video list.";
+    }
+}
+
+/* Search */
+function renderSearchResults() {
+    const query = searchInput.value.trim().toLowerCase();
+
+    searchResults.innerHTML = "";
+
+    if (!query) {
+        return;
+    }
+
+    const results = videos.filter(video =>
+        video.title.toLowerCase().includes(query)
+    );
+
+    if (!results.length) {
+        searchResults.innerHTML =
+            '<p class="empty-history">No sessions found.</p>';
+
+        return;
+    }
+
+    for (const video of results) {
+        searchResults.appendChild(
+            createCard(video, "choice-card")
+        );
     }
 }
 
@@ -263,6 +293,12 @@ function createCard(video, className) {
     button.addEventListener("click", () => {
         playVideo(video, true);
     });
+
+searchInput.addEventListener(
+    "input",
+    renderSearchResults
+);
+
 
     return button;
 }

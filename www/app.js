@@ -8,8 +8,6 @@ const HISTORY_KEY = "analog-recently-played";
 const MAX_HISTORY = 8;
 const RANDOM_CHOICES = 5;
 
-const searchInput = document.getElementById("searchInput");
-const searchResults = document.getElementById("searchResults");
 const player = document.getElementById("player");
 const title = document.getElementById("title");
 const date = document.getElementById("date");
@@ -19,6 +17,10 @@ const choicesList = document.getElementById("choicesList");
 const recentList = document.getElementById("recentList");
 const randomizeChoicesButton =
     document.getElementById("randomizeChoices");
+const searchInput =
+    document.getElementById("searchInput");
+const searchResults =
+    document.getElementById("searchResults");
 
 
 /* --------------------------------
@@ -64,7 +66,7 @@ async function loadVideos() {
         videos = data.videos;
 
         // Pick something immediately on page load,
-        // but don't add it to Recent Listens yet.
+        // but leave it paused until the user presses Play.
         playRandom(false);
 
         // Populate the five choices.
@@ -75,34 +77,6 @@ async function loadVideos() {
 
         status.textContent =
             "Could not load the video list.";
-    }
-}
-
-/* Search */
-function renderSearchResults() {
-    const query = searchInput.value.trim().toLowerCase();
-
-    searchResults.innerHTML = "";
-
-    if (!query) {
-        return;
-    }
-
-    const results = videos.filter(video =>
-        video.title.toLowerCase().includes(query)
-    );
-
-    if (!results.length) {
-        searchResults.innerHTML =
-            '<p class="empty-history">No sessions found.</p>';
-
-        return;
-    }
-
-    for (const video of results) {
-        searchResults.appendChild(
-            createCard(video, "choice-card")
-        );
     }
 }
 
@@ -223,11 +197,12 @@ function playRandom(addHistory = true) {
         video.id === currentVideo?.id
     );
 
-const autoplay = addHistory;
+    // Initial page load is paused.
+    // User-triggered random sessions autoplay and count as played.
+    const autoplay = addHistory;
 
     playVideo(video, addHistory, autoplay);
 
-    // Give us five new choices whenever we randomize.
     renderChoices();
 }
 
@@ -252,6 +227,65 @@ function getRandomChoices() {
     }
 
     return shuffled.slice(0, RANDOM_CHOICES);
+}
+
+
+function renderChoices() {
+    if (!choicesList || !videos.length) {
+        return;
+    }
+
+    choicesList.innerHTML = "";
+
+    const choices = getRandomChoices();
+
+    for (const video of choices) {
+        choicesList.appendChild(
+            createCard(video, "choice-card")
+        );
+    }
+}
+
+
+/* --------------------------------
+   Search
+   -------------------------------- */
+
+function renderSearchResults() {
+    const query =
+        searchInput.value.trim().toLowerCase();
+
+    searchResults.innerHTML = "";
+
+    if (!query) {
+        choicesList.style.display = "";
+        randomizeChoicesButton.style.display = "";
+        randomButton.style.display = "";
+
+        return;
+    }
+
+    // Hide the normal random-session controls while searching.
+    choicesList.style.display = "none";
+    randomizeChoicesButton.style.display = "none";
+    randomButton.style.display = "none";
+
+    const results = videos.filter(video =>
+        video.title.toLowerCase().includes(query)
+    );
+
+    if (!results.length) {
+        searchResults.innerHTML =
+            '<p class="empty-history">No sessions found.</p>';
+
+        return;
+    }
+
+    for (const video of results) {
+        searchResults.appendChild(
+            createCard(video, "choice-card")
+        );
+    }
 }
 
 
@@ -294,34 +328,7 @@ function createCard(video, className) {
         playVideo(video, true);
     });
 
-searchInput.addEventListener(
-    "input",
-    renderSearchResults
-);
-
-
     return button;
-}
-
-
-/* --------------------------------
-   Choices
-   -------------------------------- */
-
-function renderChoices() {
-    if (!choicesList || !videos.length) {
-        return;
-    }
-
-    choicesList.innerHTML = "";
-
-    const choices = getRandomChoices();
-
-    for (const video of choices) {
-        choicesList.appendChild(
-            createCard(video, "choice-card")
-        );
-    }
 }
 
 
@@ -354,7 +361,7 @@ function renderHistory() {
 
 
 /* --------------------------------
-   Buttons
+   Buttons and search
    -------------------------------- */
 
 randomButton.addEventListener(
@@ -366,6 +373,12 @@ randomButton.addEventListener(
 randomizeChoicesButton.addEventListener(
     "click",
     renderChoices
+);
+
+
+searchInput.addEventListener(
+    "input",
+    renderSearchResults
 );
 
 

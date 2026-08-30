@@ -194,9 +194,9 @@ min-width: 0;
 
     width: 100%;
 
-    margin: 0 0 15px;
+    margin: 0 0 12px;
 
-    padding: 11px 16px;
+    padding: 11px 14px;
 
     border: 1px solid var(--border);
     border-radius: 999px;
@@ -208,6 +208,8 @@ min-width: 0;
     font-size: 14px;
 
     outline: none;
+
+    -webkit-appearance: none;
 }
 
 
@@ -232,6 +234,9 @@ min-width: 0;
     gap: 8px;
 }
 
+#searchResults:empty {
+    display: none;
+}
 
 .pick-heading {
     margin-top: 0px !important;

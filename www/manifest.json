@@ -1,0 +1,10 @@
+{
+  "name": "Analog Radio Hour",
+  "short_name": "Analog Radio",
+  "description": "Sit back and listen to a random MAJ mix.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#111111",
+  "theme_color": "#111111",
+  "orientation": "any"
+}

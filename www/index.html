@@ -1,0 +1,155 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width,
+                 initial-scale=1,
+                 viewport-fit=cover">
+
+    <meta
+        name="theme-color"
+        content="#111111">
+
+    <meta
+        name="apple-mobile-web-app-capable"
+        content="yes">
+
+    <meta
+        name="apple-mobile-web-app-status-bar-style"
+        content="black-translucent">
+
+    <meta
+        name="apple-mobile-web-app-title"
+        content="Analog">
+
+    <link
+        rel="apple-touch-icon"
+        href="icon-192.png">
+
+    <link
+        rel="manifest"
+        href="manifest.json">
+
+    <link
+        rel="stylesheet"
+        href="style.css">
+
+    <title>Analog Radio Hour</title>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Goblin+One&family=Shrikhand&display=swap');
+</style>
+</head>
+
+<body>
+
+<main>
+
+    <header>
+
+        <h1>Analog Radio Hour</h1>
+
+        <p class="subtitle">
+Sit back and listen to a random MAJ analog mix.
+        </p>
+
+    </header>
+
+
+<div class="main-grid">
+
+    <section class="player-column">
+
+        <div class="player-container">
+
+            <iframe
+                id="player"
+                title="My Analog Journal"
+                allow="
+                    autoplay;
+                    encrypted-media;
+                    picture-in-picture;
+                    fullscreen"
+                allowfullscreen>
+            </iframe>
+
+        </div>
+
+
+        <section class="info">
+
+            <h2 id="title">
+                Ready?
+            </h2>
+
+            <p id="date"></p>
+
+        </section>
+
+
+
+        <p
+            id="status"
+            class="status">
+            Loading sessions…
+        </p>
+
+    </section>
+
+
+    <aside class="choices-column">
+
+        <section class="choices">
+
+            <h3>Pick a Session</h3>
+
+            <div id="choicesList"></div>
+
+            <button
+                id="randomizeChoices"
+                class="secondary-button"
+                type="button">
+
+                ↻ Randomize Picks
+
+            </button>
+
+        <button
+            id="randomButton"
+            class="secondary-button"
+            type="button">
+
+            🎲  Surprise me
+
+        </button>
+
+
+        </section>
+
+    </aside>
+
+</div>
+
+
+<section class="history">
+
+    <h3>Recent Listens</h3>
+
+    <div id="recentList"></div>
+
+</section>
+
+</main>
+
+
+<script src="app.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,2719 @@
+{
+  "channel": "@MyAnalogJournal",
+  "updated": "2026-08-30T14:33:08.017158+00:00",
+  "min_duration": 1500,
+  "videos": [
+    {
+      "id": "XdWAmu9AMnA",
+      "title": "Transmigration: Music in Transit (1968–1975) with Eren Eren",
+      "published": "2026-08-30T10:09:56Z",
+      "duration": 2783
+    },
+    {
+      "id": "-sUOOLgz0xA",
+      "title": "Albanian Treasures with Kreshnik",
+      "published": "2026-08-23T10:13:50Z",
+      "duration": 3714
+    },
+    {
+      "id": "dDFuMM84Yi8",
+      "title": "Stream of Conscious Sounds: Spiritual Jazz and Beyond with J’peux Tim",
+      "published": "2026-08-16T09:15:44Z",
+      "duration": 3316
+    },
+    {
+      "id": "JqJF4H1uS5Q",
+      "title": "Slow Jams, Steppers and Rare Grooves with GUEST / CUTS",
+      "published": "2026-08-09T08:06:01Z",
+      "duration": 2787
+    },
+    {
+      "id": "J5pSxQdCljw",
+      "title": "Experimental Tales: Electronic, Indie Pop and Jazz with Mafalda",
+      "published": "2026-08-02T12:41:29Z",
+      "duration": 2581
+    },
+    {
+      "id": "ximNggN8mz0",
+      "title": "Far Beyond Sight: Reflections of an Inner World with Dante Lucero",
+      "published": "2026-07-26T10:21:12Z",
+      "duration": 2740
+    },
+    {
+      "id": "XvUfvpDCoDg",
+      "title": "Outernational Psych, Dub and Post-Punk Experiments with Vandorta",
+      "published": "2026-07-19T12:01:40Z",
+      "duration": 2547
+    },
+    {
+      "id": "7GDmhUdI9tc",
+      "title": "1970s Italy: Afro-Inspired Jazz, Brazilian Rhythms & Library Grooves with Nicola Conte",
+      "published": "2026-07-12T07:54:52Z",
+      "duration": 2758
+    },
+    {
+      "id": "EJD4zzJ_5qA",
+      "title": "Funk Around The World: A Sunday Morning With Mates’ Crates",
+      "published": "2026-07-05T11:24:41Z",
+      "duration": 2638
+    },
+    {
+      "id": "Gifl8dpbvZY",
+      "title": "Fiesta Colombiana: Salsa y Cumbia with miche",
+      "published": "2026-06-28T10:55:59Z",
+      "duration": 2754
+    },
+    {
+      "id": "bzGnJytF7Ks",
+      "title": "Devotional Music from South Asia with Rohan Rakhit",
+      "published": "2026-06-21T08:34:32Z",
+      "duration": 3263
+    },
+    {
+      "id": "DzAgEWEC79U",
+      "title": "Early Caribbean Electronic Explorations with Paula Juana",
+      "published": "2026-06-14T09:37:12Z",
+      "duration": 2850
+    },
+    {
+      "id": "bwYSVI1KKvc",
+      "title": "Forgotten Grooves from Guadeloupe: Gwo Ka, Biguine & Cadence with DJ Tracksuit",
+      "published": "2026-06-07T10:17:40Z",
+      "duration": 2772
+    },
+    {
+      "id": "wAgbwwlT25g",
+      "title": "Ode to Love & Women: A Journey Through High Emotion with LAZY",
+      "published": "2026-05-31T09:02:52Z",
+      "duration": 2591
+    },
+    {
+      "id": "vwLnlmNKo0U",
+      "title": "Dub inherited from Rastafari with Eclecticist",
+      "published": "2026-05-24T10:15:39Z",
+      "duration": 2717
+    },
+    {
+      "id": "uEmWu0T_sj4",
+      "title": "Breezy Sounds from the Adriatic to the Aegean Sea with Frinda di Lanco",
+      "published": "2026-05-17T10:35:25Z",
+      "duration": 2662
+    },
+    {
+      "id": "hYsBQ-7tkDw",
+      "title": "Ethiopian Music Across A Few Decades with Sanoy",
+      "published": "2026-05-10T11:23:58Z",
+      "duration": 2656
+    },
+    {
+      "id": "gdp5_RGBbyk",
+      "title": "Broken Swing: 2-step & Deep Fragmented Grooves with Mia Koden",
+      "published": "2026-05-03T09:19:12Z",
+      "duration": 2678
+    },
+    {
+      "id": "JagxiiSv1E8",
+      "title": "Deep Modern Jazz From Japan with Tony Higgins & Mike Peden",
+      "published": "2026-04-26T08:00:01Z",
+      "duration": 3090
+    },
+    {
+      "id": "IjK88mksgME",
+      "title": "Post-Punk, New Wave & No Wave Selections with Nabihah Iqbal",
+      "published": "2026-04-19T08:21:09Z",
+      "duration": 2757
+    },
+    {
+      "id": "FmjxrRI3SCU",
+      "title": "Lost & Found Brazilian Gospel with João Gôsto",
+      "published": "2026-04-12T08:20:07Z",
+      "duration": 2714
+    },
+    {
+      "id": "2Ynatvgifmg",
+      "title": "Colombia at 78RPM with Quantic: Caribbean Rhythms From The Jukebox Era",
+      "published": "2026-04-05T11:37:12Z",
+      "duration": 2679
+    },
+    {
+      "id": "Z7wSQJ80Tq0",
+      "title": "From My Uncle’s Records: Japanese 80s Melancholy with Ryuichi Toyama",
+      "published": "2026-03-29T10:50:07Z",
+      "duration": 2582
+    },
+    {
+      "id": "TwGDQPUV4bs",
+      "title": "Afro-Renaissance: 1970s Psych-Rock, Soul, Afro-Funk, Afrobeats with IAMAUGIERAY",
+      "published": "2026-03-22T08:44:40Z",
+      "duration": 2782
+    },
+    {
+      "id": "gAJqY0SverY",
+      "title": "Brazilian Black Music with Vinil Ancestral",
+      "published": "2026-03-08T15:15:40Z",
+      "duration": 2619
+    },
+    {
+      "id": "LUr9f6YGpNQ",
+      "title": "Greek Folk, Jazz & Cinematic Disco with George Rallis",
+      "published": "2026-03-01T13:12:45Z",
+      "duration": 2636
+    },
+    {
+      "id": "NDBsJFA12Eg",
+      "title": "Japanese New Age & Ambient Electronics with Cameron Cullen",
+      "published": "2026-02-22T13:40:44Z",
+      "duration": 3412
+    },
+    {
+      "id": "eTMCAdTikVA",
+      "title": "Pan-American Funky Highway: Latin & Brazilian Grooves with Sonido Tupinamba ",
+      "published": "2026-02-15T09:35:18Z",
+      "duration": 2656
+    },
+    {
+      "id": "iWWQtr7RfwQ",
+      "title": "Brazil in Technicolour | Inspired by The Secret Agent",
+      "published": "2026-02-08T12:17:15Z",
+      "duration": 2334
+    },
+    {
+      "id": "FmsHFyH3B_Q",
+      "title": "Peruvian Psych-Tropical Guitar with Fierecita",
+      "published": "2026-02-01T11:18:01Z",
+      "duration": 2623
+    },
+    {
+      "id": "DLymtpq9G5g",
+      "title": "Spiritual Jazz, Dub & Cosmic Sounds with Cosmo Sofi",
+      "published": "2026-01-25T12:51:53Z",
+      "duration": 2770
+    },
+    {
+      "id": "r1MMaeOmQ3s",
+      "title": "Zouk, Love and Eternal Happiness with Tall Nico",
+      "published": "2026-01-18T10:46:43Z",
+      "duration": 2880
+    },
+    {
+      "id": "pJCUtvEA-8Q",
+      "title": "Spiritual Jazz, Jazz-Funk & Fusion from Bulgaria with Paloma",
+      "published": "2026-01-11T12:06:29Z",
+      "duration": 2897
+    },
+    {
+      "id": "W3c1Yo2jOrs",
+      "title": "Dance Rhythms from Africa: Sud-Sud Diversity with Guedra Guedra",
+      "published": "2026-01-04T10:10:13Z",
+      "duration": 2640
+    },
+    {
+      "id": "py0FpoLlJYg",
+      "title": "Peruvian Psychedelic Cumbia, Salsa, Boogaloo and beyond with Infopesa",
+      "published": "2025-12-28T09:36:11Z",
+      "duration": 2780
+    },
+    {
+      "id": "fwJ24TVvzHY",
+      "title": "Acid Jazz Through the Walls with Lily London",
+      "published": "2025-12-21T11:20:45Z",
+      "duration": 2644
+    },
+    {
+      "id": "ESRnr75q7SA",
+      "title": "The Mastermind: Jazz Vinyl Set of an Amateur Art Thief",
+      "published": "2025-12-14T10:20:05Z",
+      "duration": 2308
+    },
+    {
+      "id": "HuCT5wkMx6Y",
+      "title": "Lost Songs of the Seven Seas with Luca Barcellona (Wax Up!)",
+      "published": "2025-12-07T12:48:05Z",
+      "duration": 3282
+    },
+    {
+      "id": "7aZpt-COnus",
+      "title": "Ethereal Sounds with Sara Mautone",
+      "published": "2025-11-30T11:40:38Z",
+      "duration": 2944
+    },
+    {
+      "id": "eDaVdNl_OUQ",
+      "title": "The Soul In The Machines: UK '90s Electronica & Ambient Techno with Jimpster",
+      "published": "2025-11-23T11:49:17Z",
+      "duration": 2695
+    },
+    {
+      "id": "KhgSP-WDlhw",
+      "title": "A Taste of Algeria’s Musical Heritage with Algerian Vinyl",
+      "published": "2025-11-16T11:15:44Z",
+      "duration": 2641
+    },
+    {
+      "id": "gNwZ0RbERQc",
+      "title": "Dancing for Love over Hate: Afro-Caribbean favs with Discothèque Tropicale",
+      "published": "2025-11-09T13:53:44Z",
+      "duration": 3397
+    },
+    {
+      "id": "FMlvjZ1ls-o",
+      "title": "My Grandfather’s Wax: Nigerian Funk, Juju and Afrobeat with KEM KEM",
+      "published": "2025-11-02T11:15:40Z",
+      "duration": 2702
+    },
+    {
+      "id": "Y2U57HnFk8U",
+      "title": "Explorations from All Regions for All Ears with Bongo Joe Records",
+      "published": "2025-10-26T11:00:01Z",
+      "duration": 2844
+    },
+    {
+      "id": "5Tyw-6HUfj4",
+      "title": "Cosmic Express for Two: Jazz Funk and Disco with ChewChew b2b Zag",
+      "published": "2025-10-19T10:36:13Z",
+      "duration": 3800
+    },
+    {
+      "id": "jARHQ3-MI_U",
+      "title": "Sounds of Rastafari with Riketté Genesis",
+      "published": "2025-10-12T10:27:33Z",
+      "duration": 2492
+    },
+    {
+      "id": "VCo18weQPok",
+      "title": "A Glimpse of Africa & the Diaspora with Esa Williams",
+      "published": "2025-10-05T11:26:44Z",
+      "duration": 3088
+    },
+    {
+      "id": "vEhdtJkWM70",
+      "title": "Roots of Chutney: The Influence of Hindustani Folk on Caribbean Music with Poly-Ritmo & Tash LC",
+      "published": "2025-09-28T13:53:18Z",
+      "duration": 2760
+    },
+    {
+      "id": "g1rsgYXXX34",
+      "title": "Sun Kissed Beats & Afro-Cuban Heat with Shaqdi",
+      "published": "2025-09-21T11:33:44Z",
+      "duration": 2688
+    },
+    {
+      "id": "_KcXagdye54",
+      "title": "Taiwanese Synth Pop, Boogie & Disco with Hassan Raphael",
+      "published": "2025-09-14T11:35:26Z",
+      "duration": 2745
+    },
+    {
+      "id": "zsQIkhlyvfE",
+      "title": "Golden Hour with Xica Soul",
+      "published": "2025-09-07T14:42:36Z",
+      "duration": 3077
+    },
+    {
+      "id": "MzSXOWKAVfM",
+      "title": "Italian Library Music from the Golden Era with Lorenzo Fabrizi",
+      "published": "2025-08-31T10:52:20Z",
+      "duration": 2312
+    },
+    {
+      "id": "DYfXX-LLmrU",
+      "title": "Turkish Breakfast with Zag Erlat",
+      "published": "2025-08-24T10:19:01Z",
+      "duration": 2700
+    },
+    {
+      "id": "EbOnExJ_h2c",
+      "title": "In Tune with Nature with NiXiE",
+      "published": "2025-08-17T10:11:48Z",
+      "duration": 2323
+    },
+    {
+      "id": "eZNKMml3kbo",
+      "title": "Majestic Sounds from Kazakhstan & Central Asia with Arsen Superfly ",
+      "published": "2025-08-10T10:47:29Z",
+      "duration": 2696
+    },
+    {
+      "id": "YUatOwuOEq8",
+      "title": "Afro Spiritual Rhythms with DONIS",
+      "published": "2025-08-03T10:17:38Z",
+      "duration": 2888
+    },
+    {
+      "id": "_NZoyFemMlU",
+      "title": "Unshazamable Afro & Latin 45s with Bristol's La Bomba",
+      "published": "2025-07-27T11:26:32Z",
+      "duration": 2443
+    },
+    {
+      "id": "lrjLyusf00I",
+      "title": "Jazz Therapy for Funky Souls with Shaqdi",
+      "published": "2025-07-20T10:04:34Z",
+      "duration": 2665
+    },
+    {
+      "id": "hapY_4hNvq8",
+      "title": "Mexican Cosmic Disco, Funk & Boogie with Colectivo Miramar",
+      "published": "2025-07-13T11:03:15Z",
+      "duration": 2720
+    },
+    {
+      "id": "6MX6l_fB3ik",
+      "title": "West London Sounds: 2000s Onwards with WheelUP",
+      "published": "2025-07-06T09:24:28Z",
+      "duration": 2753
+    },
+    {
+      "id": "k0pCnxbVcWY",
+      "title": "Everybody Loves Samba-dy with Kornelia",
+      "published": "2025-06-29T08:26:28Z",
+      "duration": 2711
+    },
+    {
+      "id": "SFai6KIf0Uw",
+      "title": "Eclectic Grooves from West Africa with Gledd",
+      "published": "2025-06-22T10:55:38Z",
+      "duration": 2718
+    },
+    {
+      "id": "73li8uLAILM",
+      "title": "Korean Folk-Funk from the '70s and '80s with Miia Laine",
+      "published": "2025-06-15T09:14:21Z",
+      "duration": 2505
+    },
+    {
+      "id": "NJ5-rAs-zvQ",
+      "title": "Gnawa-Centric Rhythms for the Soul with Beatkozina",
+      "published": "2025-06-08T09:42:21Z",
+      "duration": 2683
+    },
+    {
+      "id": "nPfbc7TJMHg",
+      "title": "Soul Satisfaction with Maria Hanlon",
+      "published": "2025-06-01T09:18:06Z",
+      "duration": 2664
+    },
+    {
+      "id": "QitAEixHRGs",
+      "title": "Spiritual Rhythms with Mumbi Kameri",
+      "published": "2025-05-25T09:01:31Z",
+      "duration": 2597
+    },
+    {
+      "id": "bVtzuaQzE1Y",
+      "title": "Breezy Grooves for Lazy Afternoons with Mario Marini",
+      "published": "2025-05-18T09:14:16Z",
+      "duration": 2722
+    },
+    {
+      "id": "YJXmegGBGQY",
+      "title": "Natsumero for the Soul: Nostalgic Melodies from Japan with SANA",
+      "published": "2025-05-11T08:23:17Z",
+      "duration": 2572
+    },
+    {
+      "id": "3ygcsln1V-c",
+      "title": "Exploring Contemporary Belgian Jazz with Chad Kou",
+      "published": "2025-05-04T09:40:41Z",
+      "duration": 2671
+    },
+    {
+      "id": "dqjwawWNgSk",
+      "title": "Venezuelan Pop & Folk Nostalgia with Rafael Garnica",
+      "published": "2025-04-27T11:04:07Z",
+      "duration": 2622
+    },
+    {
+      "id": "XnkTNS4HEkU",
+      "title": "Electro-Boogie and Bubble Gum with Femdelic",
+      "published": "2025-04-20T13:11:50Z",
+      "duration": 2886
+    },
+    {
+      "id": "E4dUVtpeFWY",
+      "title": "In the Mood for Nu-Jazz with Monsieur Van Pratt",
+      "published": "2025-04-13T11:03:31Z",
+      "duration": 2751
+    },
+    {
+      "id": "toIRZvhYb4Y",
+      "title": "Timeless & Essential Hip-Hop Beats with Ngoc Lan",
+      "published": "2025-04-06T10:02:33Z",
+      "duration": 2732
+    },
+    {
+      "id": "TEJlKhg6Xpk",
+      "title": "Psychedelia & Acid Folk with Beirut Groove Collective",
+      "published": "2025-03-30T11:25:23Z",
+      "duration": 2784
+    },
+    {
+      "id": "uj68Oj-TQEI",
+      "title": "Moonlit Dinner with a side of Samba with DJ Zafeer",
+      "published": "2025-03-23T12:01:28Z",
+      "duration": 2870
+    },
+    {
+      "id": "5RHOs2hIaLw",
+      "title": "Reggae Harmonies for the Heart with Danniella Dee",
+      "published": "2025-03-16T12:10:48Z",
+      "duration": 2430
+    },
+    {
+      "id": "KXZaJppkCC4",
+      "title": "Algeria to Malaysia: National Broadcasting Grooves with Habibi Funk",
+      "published": "2025-03-09T12:00:05Z",
+      "duration": 2837
+    },
+    {
+      "id": "HBRjKXLG8Is",
+      "title": "Plants Can Dance with Brian d'Souza",
+      "published": "2025-03-02T12:04:39Z",
+      "duration": 2836
+    },
+    {
+      "id": "2m_ToaR5_IU",
+      "title": "Champeta: Rebel Rhythm of Colombia’s Caribbean with Edna Martinez",
+      "published": "2025-02-23T13:26:03Z",
+      "duration": 2656
+    },
+    {
+      "id": "vjdiUhtyKjA",
+      "title": "Contemporary Brazilian Records with Alive Pop-Up",
+      "published": "2025-02-16T12:40:59Z",
+      "duration": 2703
+    },
+    {
+      "id": "XXI6Ndrn8hw",
+      "title": "Galactic Fiesta: From Barranquilla to Bogotá with Jamz Supernova",
+      "published": "2025-02-09T11:59:37Z",
+      "duration": 2747
+    },
+    {
+      "id": "6A5hKiJ9Rv0",
+      "title": "Brazilian Carnival Warmup with Batukizer 🇧🇷",
+      "published": "2025-02-02T12:32:37Z",
+      "duration": 2807
+    },
+    {
+      "id": "lrNsTlZFuy0",
+      "title": "Czechoslovak Cosmic Grooves with Olinstvi",
+      "published": "2025-01-26T13:04:17Z",
+      "duration": 2885
+    },
+    {
+      "id": "i6ZUk2JvTnY",
+      "title": "Disco Nuggets from the Golden Era with Mr. Disco Kid",
+      "published": "2025-01-19T12:39:37Z",
+      "duration": 2989
+    },
+    {
+      "id": "OdnmAqv2TQQ",
+      "title": "Sonic Treasures of Peru with Zag & Shaqdi",
+      "published": "2025-01-12T11:23:17Z",
+      "duration": 2278
+    },
+    {
+      "id": "hhy7ZfOeKDk",
+      "title": "Slapping the Bass Across Styles with Daniel Monaco",
+      "published": "2025-01-08T17:31:47Z",
+      "duration": 2274
+    },
+    {
+      "id": "meuzGF5ZHYk",
+      "title": "Broken Beat from West London & Beyond with Ken Okuda",
+      "published": "2025-01-05T12:45:05Z",
+      "duration": 2905
+    },
+    {
+      "id": "zjUXNTReZA0",
+      "title": "Reggae & Deep Dub with Jah Chata",
+      "published": "2025-01-01T13:32:00Z",
+      "duration": 2992
+    },
+    {
+      "id": "H35nSxo90Sk",
+      "title": "Pure Dance Rhythms: From the Caribbean to Cabo Verde with Worm Disco Club",
+      "published": "2024-12-29T11:50:08Z",
+      "duration": 2769
+    },
+    {
+      "id": "bci4ITO0Gzk",
+      "title": "Chicago Funk, Disco and Boogie with Young Pulse",
+      "published": "2024-12-22T11:01:17Z",
+      "duration": 2771
+    },
+    {
+      "id": "nK0Qf-CYLOc",
+      "title": "Habibi Hafla Hits with MzRizk",
+      "published": "2024-12-18T10:12:28Z",
+      "duration": 2642
+    },
+    {
+      "id": "s9L82fZkXc4",
+      "title": "Estonian Disco, Funk & Jazz with Ritmo Tropical",
+      "published": "2024-12-15T16:03:53Z",
+      "duration": 2664
+    },
+    {
+      "id": "NwGWWjeUyCE",
+      "title": "Lambada and Brazilian Caribbean Music with Daniel Cantagalo",
+      "published": "2024-12-11T17:25:14Z",
+      "duration": 2569
+    },
+    {
+      "id": "ZZ6DV5JbF1U",
+      "title": "Freshly Squeezed Jazz, Afro & Latin House with Shaqdi",
+      "published": "2024-12-08T12:17:36Z",
+      "duration": 2501
+    },
+    {
+      "id": "UVmiv-nlZSk",
+      "title": "Rare Tracks From India and Her Diaspora with Sahaza",
+      "published": "2024-12-04T18:06:12Z",
+      "duration": 2041
+    },
+    {
+      "id": "0yP_v_Z7oiQ",
+      "title": "Forgotten Jazz, Soul & Funk Treasures of Yugoslavia with Miss Mash",
+      "published": "2024-12-01T12:05:49Z",
+      "duration": 2096
+    },
+    {
+      "id": "WfXuBqzuUrM",
+      "title": "Midweek Dance Break:  Raw House Music ft. '70s Soul Samples with theoretic",
+      "published": "2024-11-27T17:13:02Z",
+      "duration": 2700
+    },
+    {
+      "id": "HOnH4nI2aqY",
+      "title": "Proto Drum Machine, Basement Night Dubbing & Astral Jazz Dance with Luke Una",
+      "published": "2024-11-24T12:00:07Z",
+      "duration": 2948
+    },
+    {
+      "id": "0RRdm15P2qs",
+      "title": "Brazilian Dub and Reggae with Dani Pimenta",
+      "published": "2024-11-20T17:07:18Z",
+      "duration": 2492
+    },
+    {
+      "id": "TsOkG0jMr2g",
+      "title": "Soft Landings - A Selection of Dance Party Endings with Josh Beauchamp",
+      "published": "2024-11-17T11:13:16Z",
+      "duration": 2643
+    },
+    {
+      "id": "YIdDNxj9jPY",
+      "title": "Istanbul Taverns: Turkish Psych-Folk, Disco & Beyond with Kaan Düzarat",
+      "published": "2024-11-13T16:32:19Z",
+      "duration": 2833
+    },
+    {
+      "id": "03q3hM3PQ5A",
+      "title": "Music For An Afternoon Upswing with Valentin Lamar",
+      "published": "2024-11-10T13:03:19Z",
+      "duration": 2854
+    },
+    {
+      "id": "BdNYiXVnhRo",
+      "title": "Of Drums and Heart with La Dame",
+      "published": "2024-11-06T15:28:09Z",
+      "duration": 2575
+    },
+    {
+      "id": "8HDdXVxg0rQ",
+      "title": "It's All About the Boogie with ChewChew",
+      "published": "2024-10-30T15:58:39Z",
+      "duration": 2741
+    },
+    {
+      "id": "WUHTsKGPTnY",
+      "title": "Hungarian Folk Infused Jazz with Àbáse",
+      "published": "2024-10-27T12:25:24Z",
+      "duration": 2816
+    },
+    {
+      "id": "DL7_1cJZxHQ",
+      "title": "International Soundwaves of Jazz-Funk and Spiritual Fusion with Pam Anantr",
+      "published": "2024-10-23T16:34:44Z",
+      "duration": 2931
+    },
+    {
+      "id": "kWHWOxD9_Rc",
+      "title": "Made in 1979: Italian Disco with Jan Kiethe",
+      "published": "2024-10-20T11:25:28Z",
+      "duration": 2427
+    },
+    {
+      "id": "DNDwzV3ZOuE",
+      "title": "Bargain Bin Rarities:  ⁠Italian Funk, Jazz & then some with You Nico",
+      "published": "2024-10-16T16:02:30Z",
+      "duration": 2764
+    },
+    {
+      "id": "hUC0qnqVQS4",
+      "title": "Verbena Revival: Rhythms of Barranquilla's Picós with Wepa Selectors",
+      "published": "2024-10-13T12:32:13Z",
+      "duration": 2886
+    },
+    {
+      "id": "SvN1h44WJys",
+      "title": "Independent label gospel with Gareth Stephens (Mr Bongo)",
+      "published": "2024-10-09T15:57:55Z",
+      "duration": 2808
+    },
+    {
+      "id": "QBnshMAwll0",
+      "title": "Psychedelic Elements in Brazilian Music with Mary G",
+      "published": "2024-10-06T13:26:57Z",
+      "duration": 2534
+    },
+    {
+      "id": "d8mlD-xgoDk",
+      "title": "Isola Paradiso: Italian Jazz Dance & Funk with Daniele Mizar",
+      "published": "2024-10-02T15:48:44Z",
+      "duration": 2495
+    },
+    {
+      "id": "GBiz4qBWroo",
+      "title": "Cosmic & Spiritual Creole with Shungu",
+      "published": "2024-09-29T11:45:08Z",
+      "duration": 2597
+    },
+    {
+      "id": "takqjhI44ps",
+      "title": "American Jazz Funk & Disco in 1970s with Tommy Soul",
+      "published": "2024-09-22T10:15:03Z",
+      "duration": 2924
+    },
+    {
+      "id": "_WNSsGjDBEo",
+      "title": "Night Riding in a Vintage Cabriolet with System Olympia",
+      "published": "2024-09-18T15:42:06Z",
+      "duration": 2718
+    },
+    {
+      "id": "MYcntvADzGk",
+      "title": "Jazz/Funk from Suriname and its Diaspora with Mo Wrights",
+      "published": "2024-09-16T15:14:35Z",
+      "duration": 2438
+    },
+    {
+      "id": "7PkHBWsyGv8",
+      "title": "Stepping into Deep Jazz Dance Territory with Rainer Trüby",
+      "published": "2024-09-12T09:27:45Z",
+      "duration": 2946
+    },
+    {
+      "id": "HXvdra4wG0Y",
+      "title": "On a Moonlit Night in Iran with Katayoun",
+      "published": "2024-09-08T11:00:45Z",
+      "duration": 2680
+    },
+    {
+      "id": "EwFQkSOhHO0",
+      "title": "Distilled Curation of '70s Electric Piano with FloFilz",
+      "published": "2024-09-04T12:55:20Z",
+      "duration": 2640
+    },
+    {
+      "id": "5MBdHgynAfY",
+      "title": "Puerto Rican, Colombian and Latin American Folkloric Sounds with Daisybelle",
+      "published": "2024-09-01T10:54:48Z",
+      "duration": 2659
+    },
+    {
+      "id": "isdv_uHuzAY",
+      "title": "Soul in Motion: The Spirit of Northern Soul with BNSC",
+      "published": "2024-08-28T17:20:54Z",
+      "duration": 2621
+    },
+    {
+      "id": "jqhIJXp1SJI",
+      "title": "Transatlantic & Intergalactic Cruise: From South America to Africa with DJ Bill",
+      "published": "2024-08-25T15:40:48Z",
+      "duration": 2724
+    },
+    {
+      "id": "gCDdRACWeso",
+      "title": "An Intersection of Deep, Percussive Dubstep & Dub 2004-2024 with Mia Koden",
+      "published": "2024-08-21T16:46:01Z",
+      "duration": 2814
+    },
+    {
+      "id": "3qCbUl-AH7A",
+      "title": "¡Cumbia, Mi Amor! with Cal Jader",
+      "published": "2024-08-18T13:32:08Z",
+      "duration": 2806
+    },
+    {
+      "id": "Q99z8JwjL_c",
+      "title": "Take a Ride Through Nu-Disco with Mo’funk",
+      "published": "2024-08-14T10:58:15Z",
+      "duration": 2828
+    },
+    {
+      "id": "ZXwvW37vKw0",
+      "title": "African and Caribbean Songs of Resistance and Hope with Kamar",
+      "published": "2024-08-11T11:28:56Z",
+      "duration": 2812
+    },
+    {
+      "id": "nQaEsqrlXtc",
+      "title": "Unsung Sheroes of Disco, Soul & Boogie with Yasmin",
+      "published": "2024-08-07T18:06:24Z",
+      "duration": 2908
+    },
+    {
+      "id": "s8jF_K4VFCE",
+      "title": "Daytime Studio Party with Cheb Mimo b2b Zag",
+      "published": "2024-08-04T11:00:08Z",
+      "duration": 3426
+    },
+    {
+      "id": "mU2YiwtVG7A",
+      "title": "Interstellar Grooves, Space Funk & Disco with Rich Denahy",
+      "published": "2024-07-31T16:39:05Z",
+      "duration": 2862
+    },
+    {
+      "id": "aPlvSwYo1mo",
+      "title": "Pop Maresia: Brazilian Balearic with Discos Baratos",
+      "published": "2024-07-28T11:40:17Z",
+      "duration": 2587
+    },
+    {
+      "id": "wywCwEGe374",
+      "title": "European Label Jazz-Dance with Ashley Grimshaw",
+      "published": "2024-07-24T16:57:24Z",
+      "duration": 2209
+    },
+    {
+      "id": "K0ghw_kiNWc",
+      "title": "Spiritual House and Soulful Grooves with Lovie",
+      "published": "2024-07-21T13:39:28Z",
+      "duration": 2764
+    },
+    {
+      "id": "c6tqjW8GyE0",
+      "title": "Synth Heavy South African Dance Music with Bruce La Danse",
+      "published": "2024-07-17T16:09:45Z",
+      "duration": 2709
+    },
+    {
+      "id": "uH2YxflUQK8",
+      "title": "Brasil Continental: Circular accordion (1972 - 1994) with DJ Tudo",
+      "published": "2024-07-14T09:12:26Z",
+      "duration": 2598
+    },
+    {
+      "id": "vWXdgA92cu4",
+      "title": "Mellow and Sweet UK Lovers Rock with Yone",
+      "published": "2024-07-10T18:52:03Z",
+      "duration": 2804
+    },
+    {
+      "id": "rD66hhYocV0",
+      "title": "Synthesized PALOP & Cosmic Funaná from Cabo Verde with Sasha Guryev",
+      "published": "2024-07-07T13:21:37Z",
+      "duration": 2718
+    },
+    {
+      "id": "XpC-0ohfLbc",
+      "title": "Jazz Fusion Voyage: Latin Jazz & Jazz-Funk with LEV",
+      "published": "2024-07-03T16:00:49Z",
+      "duration": 2799
+    },
+    {
+      "id": "PLdYbJG9rMc",
+      "title": "Spiritual Liberation in Sound Frequencies with Hakim Tafari",
+      "published": "2024-06-30T11:40:27Z",
+      "duration": 2822
+    },
+    {
+      "id": "iG35dWximAc",
+      "title": "South African Boogie, Funk & Disco with Nofraje",
+      "published": "2024-06-26T15:54:25Z",
+      "duration": 2806
+    },
+    {
+      "id": "XPr2YtwFnrc",
+      "title": "El Ombligo de la Luna: Mexican Psych, Funk & Latin Soul with Carlos René",
+      "published": "2024-06-23T10:52:03Z",
+      "duration": 2823
+    },
+    {
+      "id": "Ea2WoIVTRFY",
+      "title": "Raw Rhythm & Deep Grooves with GUINNY",
+      "published": "2024-06-19T16:06:26Z",
+      "duration": 2783
+    },
+    {
+      "id": "NNTtPN9E9xs",
+      "title": "Smooth and Funky Latin Disco with Mr Boogie",
+      "published": "2024-06-16T11:20:03Z",
+      "duration": 2662
+    },
+    {
+      "id": "mgff5PFkZEE",
+      "title": "The Underground '80s Club Sound of NY with JKriv",
+      "published": "2024-06-12T16:23:15Z",
+      "duration": 2837
+    },
+    {
+      "id": "YBG5UZvixMk",
+      "title": "Latin Drum Machines: From Hip Hop to Champeta and Disco with María Latina",
+      "published": "2024-06-09T11:24:09Z",
+      "duration": 2336
+    },
+    {
+      "id": "inzHybDRxgU",
+      "title": "Dance to the Beat: The Sounds of NYC, Chicago & Beyond with Mr. Redley",
+      "published": "2024-06-05T16:09:47Z",
+      "duration": 2721
+    },
+    {
+      "id": "UVnhPziKONU",
+      "title": "An Atmospheric Journey through Argentina with Barbarelle",
+      "published": "2024-06-02T11:30:16Z",
+      "duration": 2923
+    },
+    {
+      "id": "ZeXmO07vkYA",
+      "title": "Norteño Me: Mexican and Chicano Cumbia with Covagrooviest",
+      "published": "2024-05-29T16:02:26Z",
+      "duration": 2775
+    },
+    {
+      "id": "ATbUivSCbtw",
+      "title": "Italian Prog-Funk, Boogie & Disco with Fred Simon",
+      "published": "2024-05-26T11:30:41Z",
+      "duration": 2518
+    },
+    {
+      "id": "iu_DpNIT7N0",
+      "title": "A Musical Collage of Brazilian Sounds with Rickard Masip",
+      "published": "2024-05-22T16:03:49Z",
+      "duration": 2568
+    },
+    {
+      "id": "PqkqY2x5RJE",
+      "title": "Ethiopian Jazz and Traditional Songs with The SuperCat From Addis",
+      "published": "2024-05-19T11:43:25Z",
+      "duration": 2586
+    },
+    {
+      "id": "zd7jUzXYti0",
+      "title": "Dub-Influenced House Music with Sean OD",
+      "published": "2024-05-15T16:03:37Z",
+      "duration": 2666
+    },
+    {
+      "id": "GSFMj7e7Rm8",
+      "title": "The Vibrant and Eclectic Musical Landscape of Nigeria with Babajide Tikare",
+      "published": "2024-05-12T11:33:17Z",
+      "duration": 2855
+    },
+    {
+      "id": "1oZ-yJF_2eg",
+      "title": "Original Samples Later Used in Hip Hop, R&B, Pop & more with Vittilucchi",
+      "published": "2024-05-08T16:03:51Z",
+      "duration": 2868
+    },
+    {
+      "id": "p_DsdarWRok",
+      "title": "'70s-'80s Jazz Funk & Fusion Vinyl Mix with Hikko Mori",
+      "published": "2024-05-05T13:03:26Z",
+      "duration": 2914
+    },
+    {
+      "id": "heltmiuwgTc",
+      "title": "A Musical Journey through Italian and Neapolitan Gangster Movies with Bassolino",
+      "published": "2024-05-02T18:43:18Z",
+      "duration": 2541
+    },
+    {
+      "id": "Qy_sJb6dv6c",
+      "title": "Soulful Sunday Afternoon with Aquila",
+      "published": "2024-04-28T11:28:37Z",
+      "duration": 2871
+    },
+    {
+      "id": "JM9kJPUKakM",
+      "title": "N'Calma Waves & its Afro-Brazilian Sounds with DJ Tigas",
+      "published": "2024-04-24T14:15:43Z",
+      "duration": 2656
+    },
+    {
+      "id": "idMWWDshWfM",
+      "title": "Contagious Boogie and Electro Soul with DJ Tunesmith",
+      "published": "2024-04-21T12:11:39Z",
+      "duration": 2596
+    },
+    {
+      "id": "AMf7PoKDmMQ",
+      "title": "Modern Soul and Boogie Singles with Celestial Echo Records",
+      "published": "2024-04-17T17:40:44Z",
+      "duration": 2699
+    },
+    {
+      "id": "zpKfh8gkgp0",
+      "title": "Japanese Acid Folk, Blues, Jazz & Beyond - Inspired by Perfect Days",
+      "published": "2024-04-14T11:35:17Z",
+      "duration": 2176
+    },
+    {
+      "id": "hXDMQWykiDU",
+      "title": "Angolan Sembas, Groovers and Ethio-Crooners with Abstract Abder",
+      "published": "2024-04-10T16:21:03Z",
+      "duration": 2924
+    },
+    {
+      "id": "9eq8ltOy9sw",
+      "title": "A Ghanaian Treasure Trove of '80s Hi-Life Gold with Jerry Frempong",
+      "published": "2024-04-07T17:22:51Z",
+      "duration": 3046
+    },
+    {
+      "id": "EaDstm3Nrfk",
+      "title": "A Celebration of Latin Jazz & Jazz Dance with Tina Edwards and Friends",
+      "published": "2024-04-03T16:21:17Z",
+      "duration": 2502
+    },
+    {
+      "id": "dIvqXFIlzUM",
+      "title": "Chill Hip-Hop & Soulful Beats with Esk",
+      "published": "2024-03-31T10:31:32Z",
+      "duration": 2600
+    },
+    {
+      "id": "pRW4yqPbK94",
+      "title": "Father and Son Reggae Special: Dean Bryce B2B with Mr Rocksteady",
+      "published": "2024-03-27T18:49:00Z",
+      "duration": 2726
+    },
+    {
+      "id": "ITHEfZgFWtQ",
+      "title": "A Selection of Soul, Disco & Jazz Fusion with Afro Alternative",
+      "published": "2024-03-20T16:08:08Z",
+      "duration": 2837
+    },
+    {
+      "id": "K2zbIHqoMyo",
+      "title": "60 Years of Folk & Traditional Irish Music with DJ Tommy B",
+      "published": "2024-03-17T10:36:31Z",
+      "duration": 2498
+    },
+    {
+      "id": "613dT_9J83g",
+      "title": "A Journey Through Moroccan Music with Monstera Occulta",
+      "published": "2024-03-13T16:49:04Z",
+      "duration": 2592
+    },
+    {
+      "id": "yWHDRjC-6p4",
+      "title": "From Roots Reggae to Dancehall Ragga: A Musical Odyssey with Last Of The Lions",
+      "published": "2024-03-10T12:48:47Z",
+      "duration": 2691
+    },
+    {
+      "id": "DsTa1MXivm4",
+      "title": "‘60s & ‘70s Trippy Female Psychedelic Rock with Jawa Jones",
+      "published": "2024-03-08T12:24:26Z",
+      "duration": 2701
+    },
+    {
+      "id": "i_3u3uJ4F9E",
+      "title": "Japanese Soul from the '70s: ライトメロウ with Kengo",
+      "published": "2024-03-03T12:36:21Z",
+      "duration": 2703
+    },
+    {
+      "id": "Fwdpj_p5Pm8",
+      "title": "Heavenly UK Gospel Grooves with Yadava",
+      "published": "2024-02-28T16:59:43Z",
+      "duration": 2846
+    },
+    {
+      "id": "n3O4OVD54a8",
+      "title": "Round the World on a Trumpet with Donwella",
+      "published": "2024-02-25T13:59:37Z",
+      "duration": 2656
+    },
+    {
+      "id": "7xj0ZPFEW3o",
+      "title": "Diggin' Through the Crates In Italy with Raregems",
+      "published": "2024-02-22T15:02:01Z",
+      "duration": 2757
+    },
+    {
+      "id": "RWQwSJ6bJoQ",
+      "title": "The Vibrant Rhythms of Soca with Sunni D",
+      "published": "2024-02-18T16:30:44Z",
+      "duration": 2780
+    },
+    {
+      "id": "W9WxDqeOFvU",
+      "title": "Rhythms of Reggae from the '60s to '80s with Kaya M",
+      "published": "2024-02-14T16:32:09Z",
+      "duration": 2853
+    },
+    {
+      "id": "gaQYJ8VB-Rc",
+      "title": "Japanese Déjà Vu: Dreamy & Surrealistic Vibes with Mari*",
+      "published": "2024-02-11T12:45:05Z",
+      "duration": 2522
+    },
+    {
+      "id": "pOzQoPModPE",
+      "title": "'80s & '90s Soca and Calypso Gems from Trinidad with Tash LC",
+      "published": "2024-02-07T16:49:59Z",
+      "duration": 2843
+    },
+    {
+      "id": "DrSUEuT4i6Y",
+      "title": "Nomadic Desert Party with Distant Rhythm",
+      "published": "2024-02-04T12:30:01Z",
+      "duration": 2547
+    },
+    {
+      "id": "Y1_4_yWgvU0",
+      "title": "Curaçaoan Nuggets from the '60s and '70s with Rozaly (Ranson)",
+      "published": "2024-01-31T16:40:37Z",
+      "duration": 2730
+    },
+    {
+      "id": "yl0R-KFW58Y",
+      "title": "Disco for Your Soul with BOSSdaddy",
+      "published": "2024-01-28T15:38:13Z",
+      "duration": 2662
+    },
+    {
+      "id": "63Ije5WxLBk",
+      "title": "Instrumental House for the Soul with SANA",
+      "published": "2024-01-24T17:00:01Z",
+      "duration": 2816
+    },
+    {
+      "id": "sMsQ2xGG1tQ",
+      "title": "Brazilian Selection: African and Indigenous Influences with DJ Tahira",
+      "published": "2024-01-21T11:13:48Z",
+      "duration": 2705
+    },
+    {
+      "id": "EdRWttyfzsQ",
+      "title": "Hip Shaking Boogie with Simon J. Frank",
+      "published": "2024-01-17T17:24:39Z",
+      "duration": 2579
+    },
+    {
+      "id": "toRPgvTq7l8",
+      "title": "Dreamy Beats from the Worlds In-Between with Moontalk",
+      "published": "2024-01-14T14:05:12Z",
+      "duration": 2977
+    },
+    {
+      "id": "TZjtqpkSNtU",
+      "title": "East Coast House Trip: '90s to Early '00s with Dem (Hemlin)",
+      "published": "2024-01-10T16:48:09Z",
+      "duration": 2315
+    },
+    {
+      "id": "14SY0b1u_ho",
+      "title": "Soulful and Percussive Dance Floor Shakers with Poly-Ritmo",
+      "published": "2024-01-07T12:47:56Z",
+      "duration": 3184
+    },
+    {
+      "id": "t8XMpz75cL0",
+      "title": "Magic Balearic & Soft Rock with MOQST",
+      "published": "2024-01-03T17:19:42Z",
+      "duration": 2868
+    },
+    {
+      "id": "KIDLjSFjKJE",
+      "title": "Songs From a Dream Sequence with Ceylan Göksel",
+      "published": "2024-01-01T13:00:53Z",
+      "duration": 2629
+    },
+    {
+      "id": "Hol8-c3g3ZQ",
+      "title": "A Trip to Ibiza with Harry Charles",
+      "published": "2023-12-27T16:47:42Z",
+      "duration": 2910
+    },
+    {
+      "id": "5LhygBNgc70",
+      "title": "7\" Special of Something Old, New, Borrowed & Blue with MARSHMELLO",
+      "published": "2023-12-24T12:27:05Z",
+      "duration": 2597
+    },
+    {
+      "id": "6B6KFou9uy8",
+      "title": "Shakedown: Roots, Rocksteady and beyond with Ash Walker & GIN",
+      "published": "2023-12-21T09:34:44Z",
+      "duration": 2989
+    },
+    {
+      "id": "nB04Kxq8d7s",
+      "title": "Oddly Beautiful Covers made from Popular Tracks with Bárbara Boeing",
+      "published": "2023-12-17T12:18:27Z",
+      "duration": 2568
+    },
+    {
+      "id": "o4S9G7VHE28",
+      "title": "Summer Breeze On A Winter’s Day with Shaqdi & Zag",
+      "published": "2023-12-13T17:13:54Z",
+      "duration": 2481
+    },
+    {
+      "id": "4wtsAOdG3_Q",
+      "title": "100% Soukous That Will Make You Moving with Dare Balogun",
+      "published": "2023-12-10T13:14:26Z",
+      "duration": 2736
+    },
+    {
+      "id": "gmN0LuiiA3k",
+      "title": "A Deep Dive into Drum and Bass and Jungle with Ryan Mastersounds",
+      "published": "2023-12-06T19:59:01Z",
+      "duration": 2547
+    },
+    {
+      "id": "ujpz5ogKj7c",
+      "title": "Podróże Muzyczne: A Celebration of Uplifting Grooves with Kacper Pieta",
+      "published": "2023-12-03T13:05:38Z",
+      "duration": 2752
+    },
+    {
+      "id": "St48AIg4gUU",
+      "title": "Underground UK Records - From Dub to House with Sam Don",
+      "published": "2023-11-29T17:04:25Z",
+      "duration": 2580
+    },
+    {
+      "id": "t3AwsgOsDSM",
+      "title": "Jewels from Ecuador with Bonita Records",
+      "published": "2023-11-26T12:37:32Z",
+      "duration": 2797
+    },
+    {
+      "id": "4iYtipVOn8o",
+      "title": "Beats of the Earth: A Global Percussion Adventure with Frederika",
+      "published": "2023-11-22T17:52:32Z",
+      "duration": 2305
+    },
+    {
+      "id": "WxwwibSG_S4",
+      "title": "Psychedelic Funk and Downtempo Boogie with Apricot Ballroom",
+      "published": "2023-11-19T14:33:48Z",
+      "duration": 2575
+    },
+    {
+      "id": "iuGWfcleH0o",
+      "title": "Dalla Sicilia con Amore: Records from Sicilia with Mirko Fanciullo",
+      "published": "2023-11-16T09:42:34Z",
+      "duration": 2962
+    },
+    {
+      "id": "NXjKOk5_lwo",
+      "title": "Latin Lunchtime: Cuban Jazz-Funk, Disco & Brazilian Soul with Emanuel Pavlova",
+      "published": "2023-11-12T16:40:31Z",
+      "duration": 2533
+    },
+    {
+      "id": "4zj85hrUx3M",
+      "title": "Ayo Ke Disco - East & South East Asian Records with Norsicaa",
+      "published": "2023-11-08T19:54:50Z",
+      "duration": 2669
+    },
+    {
+      "id": "rVUvhm1kA7c",
+      "title": "The Magical Language of Percussion with Gabriele Poso",
+      "published": "2023-11-05T13:02:19Z",
+      "duration": 2390
+    },
+    {
+      "id": "I56NSBduc9Q",
+      "title": "Peruvian Psychedelic Cumbia, Salsa & Pop with Infopesa",
+      "published": "2023-11-01T16:23:07Z",
+      "duration": 2683
+    },
+    {
+      "id": "H1hsI6A8sDE",
+      "title": "Asia A Go-Go: Soul, Funk & Yé-yé 45s with DJ Honey",
+      "published": "2023-10-29T13:39:27Z",
+      "duration": 2906
+    },
+    {
+      "id": "v0whj-71U5E",
+      "title": "Connoisseurs Soul: Sweet, Deep, Steppers & Lowrider Soul with JM",
+      "published": "2023-10-25T16:31:40Z",
+      "duration": 2973
+    },
+    {
+      "id": "uy6oTfJTvYg",
+      "title": "An Uplifting Celebration of House with MiNNA",
+      "published": "2023-10-22T11:54:35Z",
+      "duration": 2805
+    },
+    {
+      "id": "qLl3Zbhdq1k",
+      "title": "Synth-Pop, New Wave, Psych from Wales (Cymru) with Keltoi",
+      "published": "2023-10-15T14:25:34Z",
+      "duration": 2668
+    },
+    {
+      "id": "zCIqs59xp94",
+      "title": "Dreamy Italo-House between '90 & '92 with Zaffa",
+      "published": "2023-10-11T16:51:50Z",
+      "duration": 2845
+    },
+    {
+      "id": "6gPMO0rFDEg",
+      "title": "A Selection of Deep & Soulful Jazzy House with Tim Garcia",
+      "published": "2023-10-08T11:22:23Z",
+      "duration": 3054
+    },
+    {
+      "id": "GECvj9XyTF0",
+      "title": "Percussive Latin & Afro House with Ajuma",
+      "published": "2023-10-04T16:17:27Z",
+      "duration": 2778
+    },
+    {
+      "id": "qi0zDku1_W8",
+      "title": "Jazz Dance, Sweat and Tears with Zag Erlat",
+      "published": "2023-10-01T11:30:18Z",
+      "duration": 2355
+    },
+    {
+      "id": "cmV_wQe6eSA",
+      "title": "Japanese Reggae Pop from the ‘70s & ‘80s with Kay Suzuki",
+      "published": "2023-09-27T14:42:54Z",
+      "duration": 2541
+    },
+    {
+      "id": "IE5-gn9eDNk",
+      "title": "Organic and Synthesized Grooves from Peru with Axel Haxel",
+      "published": "2023-09-24T15:24:33Z",
+      "duration": 3007
+    },
+    {
+      "id": "UTs2XF_XWmc",
+      "title": "Psychedelic Floorshaking 45s with Bill Brewster",
+      "published": "2023-09-20T16:02:59Z",
+      "duration": 2818
+    },
+    {
+      "id": "z9UemfQ7P7k",
+      "title": "Spiritual Voyage: Religious and Traditional Rhythms with Valentine Comar",
+      "published": "2023-09-17T11:27:42Z",
+      "duration": 2305
+    },
+    {
+      "id": "ysznHhI-lTY",
+      "title": "Polish Psychedelia, Oddball Grooves & Sci-fi Jazz with Kreshik",
+      "published": "2023-09-13T16:29:50Z",
+      "duration": 3092
+    },
+    {
+      "id": "pIkkNPkzVoI",
+      "title": "Uplifting Synth Pop from the '80s and '90s en Español with Cecyza",
+      "published": "2023-09-10T10:13:33Z",
+      "duration": 2895
+    },
+    {
+      "id": "rfR9cJsp22A",
+      "title": "Enchanting Melodies from a Dreamy Island with Birds Of Rhythm",
+      "published": "2023-09-06T16:00:40Z",
+      "duration": 2708
+    },
+    {
+      "id": "9koRe5sZlns",
+      "title": "Emotional Content by kels",
+      "published": "2023-09-03T12:01:05Z",
+      "duration": 3408
+    },
+    {
+      "id": "OiaCnFtYjDQ",
+      "title": "A Deep Dive into Reggae from Yesterday and Today with KAT7",
+      "published": "2023-08-30T16:40:13Z",
+      "duration": 2972
+    },
+    {
+      "id": "c4jvvWKKlhQ",
+      "title": "Ritmo Transatlantico: Sailing the Currents with Red Bananna",
+      "published": "2023-08-27T12:43:26Z",
+      "duration": 2250
+    },
+    {
+      "id": "U0QHrlAn374",
+      "title": "Psychedelic Grooves from Haiti with DJ Tracksuit",
+      "published": "2023-08-23T15:39:51Z",
+      "duration": 2952
+    },
+    {
+      "id": "MY59BwHENDo",
+      "title": "High Energy Rhythms from Cameroon & Senegal with GRACE",
+      "published": "2023-08-20T11:01:20Z",
+      "duration": 3082
+    },
+    {
+      "id": "ju1w6GWTb1A",
+      "title": "Organic Modern Sounds from South America with Earthly Measures",
+      "published": "2023-08-16T17:36:20Z",
+      "duration": 2272
+    },
+    {
+      "id": "Cq2sAHrFaSs",
+      "title": "Maravilhas Naturais: Brazilian Reggae & Boogie with Giu Nunez",
+      "published": "2023-08-13T12:05:05Z",
+      "duration": 3324
+    },
+    {
+      "id": "NeX_dBaUVgI",
+      "title": "An Explosive Collage of Jazz In Da House with Marcia Carr",
+      "published": "2023-08-09T16:01:14Z",
+      "duration": 2934
+    },
+    {
+      "id": "pzItotMPA1w",
+      "title": "Tropical Cosmic Dance with Cedric Woo",
+      "published": "2023-08-06T11:31:32Z",
+      "duration": 3202
+    },
+    {
+      "id": "y9AyrEjjRsA",
+      "title": "Subtle Sonic Landscapes & Cycles with Felbm",
+      "published": "2023-08-02T18:52:32Z",
+      "duration": 2978
+    },
+    {
+      "id": "nejrZwWFO6s",
+      "title": "Balearic Nuggets with Trujillo",
+      "published": "2023-07-30T10:08:53Z",
+      "duration": 2622
+    },
+    {
+      "id": "sKV1Q0Yci1Q",
+      "title": "Velvet House with 4AM NYC",
+      "published": "2023-07-26T14:00:49Z",
+      "duration": 3332
+    },
+    {
+      "id": "NZjyhK8SDds",
+      "title": "Brazilian Street Soul with Lucian Fernandes",
+      "published": "2023-07-23T11:30:07Z",
+      "duration": 3060
+    },
+    {
+      "id": "jl9W6SX7k58",
+      "title": "Rhythms of the Continent: African Beats and Disco Treats with Joumana",
+      "published": "2023-07-19T16:50:17Z",
+      "duration": 3284
+    },
+    {
+      "id": "gGU5erQzLV4",
+      "title": "Inner City Soul & Deep Electronic Tracks with The Josh Craig",
+      "published": "2023-07-16T11:27:57Z",
+      "duration": 3210
+    },
+    {
+      "id": "PrlNNgN5sQE",
+      "title": "A Journey through Peru and Bolivia with Eck Echo",
+      "published": "2023-07-12T17:28:03Z",
+      "duration": 2836
+    },
+    {
+      "id": "Z5j-s5vkSQc",
+      "title": "Hawaiian Grooves with Roger Bong (Aloha Got Soul)",
+      "published": "2023-07-09T14:25:57Z",
+      "duration": 2840
+    },
+    {
+      "id": "62AV4UbQqOA",
+      "title": "'90s UK Jazzy Trip-hop with Nina Yamada",
+      "published": "2023-07-05T17:14:30Z",
+      "duration": 2459
+    },
+    {
+      "id": "3X2CdxEOQr4",
+      "title": "A Playlist of Brazilian Reggae Grooves with Batukizer",
+      "published": "2023-07-02T11:26:51Z",
+      "duration": 3226
+    },
+    {
+      "id": "Z27Ds9mSVtI",
+      "title": "Rare Roots from the Vault with Ash Walker",
+      "published": "2023-06-28T16:02:48Z",
+      "duration": 2881
+    },
+    {
+      "id": "p8Qsyrrq4eg",
+      "title": "Scottish Jazz with Rebecca Vasmant",
+      "published": "2023-06-25T14:18:36Z",
+      "duration": 2460
+    },
+    {
+      "id": "zl0ZIgVLHCo",
+      "title": "Eclectic Cinematic Cuts with Avi Del Mono",
+      "published": "2023-06-21T16:00:54Z",
+      "duration": 2968
+    },
+    {
+      "id": "U2P1V7h2OQw",
+      "title": "The Anthropology of Roots Reggae with Jah Massagan",
+      "published": "2023-06-19T16:09:06Z",
+      "duration": 2992
+    },
+    {
+      "id": "6nLPIAdzsc0",
+      "title": "A History of 80s European New Wave and Synth Pop with Daisybelle & Carly Foxx",
+      "published": "2023-06-14T16:05:26Z",
+      "duration": 3083
+    },
+    {
+      "id": "Pe2OmYgv4zk",
+      "title": "A Journey into '90s & '2000s Nu Jazz with Leopold",
+      "published": "2023-06-11T11:29:36Z",
+      "duration": 2988
+    },
+    {
+      "id": "rmiqkmezDE8",
+      "title": "Reflections of Garage & House '96-'99 with DJ Emma",
+      "published": "2023-06-07T17:37:34Z",
+      "duration": 2956
+    },
+    {
+      "id": "-KaTMoCWFx4",
+      "title": "Indo-Jazz, Future Jazz & Dub with Rohan Rakhit",
+      "published": "2023-06-04T11:30:00Z",
+      "duration": 2979
+    },
+    {
+      "id": "G4hUqwjJJBw",
+      "title": "Heartbreak in Another Tongue with The Grey Area",
+      "published": "2023-05-31T16:30:05Z",
+      "duration": 3272
+    },
+    {
+      "id": "ZFC79l8xgLA",
+      "title": "Psychedelic & Folk Music from Brittany with Léna C",
+      "published": "2023-05-28T11:30:16Z",
+      "duration": 2682
+    },
+    {
+      "id": "HFEb1NK7bpI",
+      "title": "High Quality Vibes from the Dollar Bin with Manuel Darquart",
+      "published": "2023-05-24T16:13:44Z",
+      "duration": 2908
+    },
+    {
+      "id": "fjv3UGWiDsE",
+      "title": "A Deep Journey into House Music with Dr Dubplate",
+      "published": "2023-05-21T11:35:46Z",
+      "duration": 2742
+    },
+    {
+      "id": "qKn05gferI0",
+      "title": "Early Jersey House & Club Zanzibar with Niyah West",
+      "published": "2023-05-17T16:45:17Z",
+      "duration": 2994
+    },
+    {
+      "id": "bqVwMXOkKqY",
+      "title": "The Vibrant Sounds of Suriname with Edgar Ramiro",
+      "published": "2023-05-14T11:30:12Z",
+      "duration": 2722
+    },
+    {
+      "id": "XTLthDVbAFU",
+      "title": "From Italy with Disco: Italian Forgotten Gems with Disco Bambino",
+      "published": "2023-05-10T16:00:01Z",
+      "duration": 2772
+    },
+    {
+      "id": "-OEyOP6Pn-M",
+      "title": "Oud, Darbuka & Groovy Bassline Rhythms with Hiba",
+      "published": "2023-05-07T11:30:03Z",
+      "duration": 2870
+    },
+    {
+      "id": "jcTHpTs8PJw",
+      "title": "Sweetnighter Classics: Organic Grooves Without Borders with SweetNightJoe",
+      "published": "2023-05-03T16:05:20Z",
+      "duration": 2652
+    },
+    {
+      "id": "8koE95Ib3AE",
+      "title": "Twilight Cruising: Japanese City Pop & Fusion 🌊 🌆 🚘",
+      "published": "2023-04-30T12:19:25Z",
+      "duration": 1996
+    },
+    {
+      "id": "Owh5QCn3PEo",
+      "title": "Irresistible Disco and Boogie Heat with Alena Arpels",
+      "published": "2023-04-26T16:03:18Z",
+      "duration": 2373
+    },
+    {
+      "id": "mydeao0DTVE",
+      "title": "Deep Fried Funk 45s with Ken Okuda",
+      "published": "2023-04-23T12:12:34Z",
+      "duration": 3094
+    },
+    {
+      "id": "gfq6i2O5c9Y",
+      "title": "Tapecar Records from Brazil with Miche & Gary Johnson (Mr Bongo)’",
+      "published": "2023-04-19T16:40:51Z",
+      "duration": 2439
+    },
+    {
+      "id": "PsveHkfLbOg",
+      "title": "Kollywood & Bollywood Disco, Funk & Boogie with Mera Bhai",
+      "published": "2023-04-16T12:42:33Z",
+      "duration": 2808
+    },
+    {
+      "id": "_TDuFD1MSHg",
+      "title": "Un Rayo de Sol: Organic Latin Grooves with Santa Leticia",
+      "published": "2023-04-12T15:25:52Z",
+      "duration": 2658
+    },
+    {
+      "id": "bY5BKSkIDg0",
+      "title": "Zouk Records to Make You Smile & Dance with JOSH FB",
+      "published": "2023-04-10T16:04:30Z",
+      "duration": 3349
+    },
+    {
+      "id": "iD9IO0OVA_o",
+      "title": "Rare Independent DIY Jazz with DJ Amir",
+      "published": "2023-04-05T15:48:41Z",
+      "duration": 2759
+    },
+    {
+      "id": "0Na4MPm1KOA",
+      "title": "Cathartic Selections with NikNak",
+      "published": "2023-04-02T11:11:54Z",
+      "duration": 3155
+    },
+    {
+      "id": "i0tNcyJi8LM",
+      "title": "North African Raï Tapes and Records with Cheb Mimo",
+      "published": "2023-03-29T16:36:25Z",
+      "duration": 3526
+    },
+    {
+      "id": "gMFT85ZhRTY",
+      "title": "Diggin in Brooklyn: Disco & Soul with Shawn Dub",
+      "published": "2023-03-26T11:49:54Z",
+      "duration": 2771
+    },
+    {
+      "id": "Wnt3VaLP3sg",
+      "title": "Lovers Rock, Street Soul and beyond with DJ Gilla",
+      "published": "2023-03-22T17:21:13Z",
+      "duration": 3208
+    },
+    {
+      "id": "mNaRrg0LEhI",
+      "title": "Evolution of Afro Surinamese Kawina with Tash LC",
+      "published": "2023-03-19T12:27:30Z",
+      "duration": 3000
+    },
+    {
+      "id": "nuaf-GCOeAE",
+      "title": "Lisbon Sunbathing Grooves with TROL2000",
+      "published": "2023-03-15T16:29:19Z",
+      "duration": 2847
+    },
+    {
+      "id": "lSYtvHv4DD8",
+      "title": "'90s Reggae Dancehall Mix with Shubha G",
+      "published": "2023-03-12T12:30:47Z",
+      "duration": 2867
+    },
+    {
+      "id": "i4ZOcqFUlN0",
+      "title": "Women's Voices from Around the World with Shaqdi (IWD Special)",
+      "published": "2023-03-08T15:00:24Z",
+      "duration": 2739
+    },
+    {
+      "id": "KL1UXSp0nm4",
+      "title": "UK Street Soul with Heels & Souls",
+      "published": "2023-03-05T13:09:34Z",
+      "duration": 3028
+    },
+    {
+      "id": "6spo831GztQ",
+      "title": "A Universal Fusion of Funk and Disco with GUINNY",
+      "published": "2023-03-01T17:04:42Z",
+      "duration": 3061
+    },
+    {
+      "id": "B21oW4tpWKs",
+      "title": "Records from Pakistan, Bangladesh and India with Haseeb Iqbal",
+      "published": "2023-02-26T13:27:54Z",
+      "duration": 2744
+    },
+    {
+      "id": "rnVQjaXxinM",
+      "title": "Síntesis Moderna from Argentina with Harari",
+      "published": "2023-02-22T18:36:05Z",
+      "duration": 2782
+    },
+    {
+      "id": "MUR2-lrvABQ",
+      "title": "Discotheque Internationale with Zag Erlat",
+      "published": "2023-02-19T14:05:04Z",
+      "duration": 2527
+    },
+    {
+      "id": "1eZ0xiUCXVk",
+      "title": "David Mancuso’s Loft Tribute with Colleen ‘Cosmo’ Murphy",
+      "published": "2023-02-15T16:40:15Z",
+      "duration": 3743
+    },
+    {
+      "id": "Py0_uaQzflQ",
+      "title": "A Journey through Italo Disco between '83 and '86 with DJ Subaru",
+      "published": "2023-02-06T17:35:02Z",
+      "duration": 2782
+    },
+    {
+      "id": "774-9LIbsrk",
+      "title": "Italian Jazz with South American flavours with Ma Nu",
+      "published": "2023-02-01T17:40:18Z",
+      "duration": 2657
+    },
+    {
+      "id": "zqIfD2Nm3HY",
+      "title": "A Dig in Detroit with Scarlett O'Malley",
+      "published": "2023-01-29T12:00:06Z",
+      "duration": 2763
+    },
+    {
+      "id": "sEE9DSbh7_U",
+      "title": "Sounds of Brazil: Paz E Futebol with Jürgen von Knoblauch",
+      "published": "2023-01-25T18:57:19Z",
+      "duration": 2974
+    },
+    {
+      "id": "fKvMhydlXmI",
+      "title": "'80s Balearic, Latin & Afro Influenced Grooves with Daisybelle",
+      "published": "2023-01-22T14:19:14Z",
+      "duration": 2863
+    },
+    {
+      "id": "vBVJwn-RPw4",
+      "title": "Dancefloor Explorations of Big Band & Fusion Jazz with Charles Vaughan",
+      "published": "2023-01-18T17:12:15Z",
+      "duration": 2890
+    },
+    {
+      "id": "ToGuU8bT0XY",
+      "title": "Italo Funk & Boogie with Fred Simon",
+      "published": "2023-01-15T13:19:22Z",
+      "duration": 3226
+    },
+    {
+      "id": "iBkmY-imhvs",
+      "title": "Brazilian Boogie, Disco & Funk with Poly-Ritmo & Zag",
+      "published": "2023-01-11T19:31:04Z",
+      "duration": 3122
+    },
+    {
+      "id": "hN9LhaTITMg",
+      "title": "Sounds of the Cosmos with Oscar Jerome",
+      "published": "2023-01-08T12:30:28Z",
+      "duration": 2489
+    },
+    {
+      "id": "phkgp4RIuoI",
+      "title": "Dancefloor Fuzz with Josh Beauchamp (Audio Gold)",
+      "published": "2023-01-04T17:14:02Z",
+      "duration": 3399
+    },
+    {
+      "id": "hzWl_j__KFU",
+      "title": "Songs that will Cure Your Hangover with Ceylan Göksel",
+      "published": "2023-01-01T12:17:03Z",
+      "duration": 2794
+    },
+    {
+      "id": "3y3QDFC6REs",
+      "title": "A Journey into Reggae from Dub to Dancehall with Ras Jammy",
+      "published": "2022-12-28T15:34:37Z",
+      "duration": 2990
+    },
+    {
+      "id": "4UTl1VvYLzM",
+      "title": "Records that will get you in the Holiday Spirit",
+      "published": "2022-12-24T10:11:31Z",
+      "duration": 3198
+    },
+    {
+      "id": "tKaaKADHpH0",
+      "title": "A Collection of Boogie, Jazz Funk & Disco with Mehdi El-Aquil",
+      "published": "2022-12-21T19:11:53Z",
+      "duration": 3073
+    },
+    {
+      "id": "4U1xGz65jlY",
+      "title": "An Exploration of Bulgaria from Jazz to Boogie with Frederika",
+      "published": "2022-12-18T13:25:37Z",
+      "duration": 2759
+    },
+    {
+      "id": "m0FSWUJG2LE",
+      "title": "Brazilian Music from Bahia with Gerah",
+      "published": "2022-12-14T18:33:16Z",
+      "duration": 2834
+    },
+    {
+      "id": "SIZ467ad64Y",
+      "title": "A Journey into Spiritual Jazz with Rintaro",
+      "published": "2022-12-11T16:03:31Z",
+      "duration": 2535
+    },
+    {
+      "id": "YC7faDixT9A",
+      "title": "Afro Cuban Funky Grooves with Cami Layé Okún",
+      "published": "2022-12-07T17:00:29Z",
+      "duration": 2751
+    },
+    {
+      "id": "xdiaAslhWqc",
+      "title": "Records from South Africa, 1972-2021 with kyle",
+      "published": "2022-12-04T15:35:31Z",
+      "duration": 2926
+    },
+    {
+      "id": "GyU8jToVmI8",
+      "title": "More Brazilian Samba Grooves with Batukizer",
+      "published": "2022-11-30T17:17:52Z",
+      "duration": 2600
+    },
+    {
+      "id": "NNFsiXc22Co",
+      "title": "A Journey into the World of Asian Grooves with Dean Chew",
+      "published": "2022-11-27T16:40:01Z",
+      "duration": 2837
+    },
+    {
+      "id": "6jFCgeQ7F_A",
+      "title": "R&B to Street Soul with Russ Ryan",
+      "published": "2022-11-23T18:02:07Z",
+      "duration": 2840
+    },
+    {
+      "id": "LKA4YcYMStE",
+      "title": "Súper Combo: Latin Funk Fantasy with Coco María",
+      "published": "2022-11-20T15:06:12Z",
+      "duration": 2502
+    },
+    {
+      "id": "eokWldL4qsU",
+      "title": "Guest Mix: Cosmic Love Jams with Edseven",
+      "published": "2022-11-16T16:22:54Z",
+      "duration": 2683
+    },
+    {
+      "id": "Oj-i_tw80LY",
+      "title": "South East Asian Psych, Soul and Garage with Chris Menist",
+      "published": "2022-11-13T14:18:38Z",
+      "duration": 2493
+    },
+    {
+      "id": "1GxMk5KnOe0",
+      "title": "A Selection of Hip-Hop from across North America with Anja Ngozi",
+      "published": "2022-11-06T12:25:40Z",
+      "duration": 2725
+    },
+    {
+      "id": "awsmwjiyuIA",
+      "title": "Brazilian MPB with Palo Santo Discos",
+      "published": "2022-10-30T13:08:07Z",
+      "duration": 2841
+    },
+    {
+      "id": "HrYa5x4U0fE",
+      "title": "Rare Caribbean Disco, Funk and Soul with Mokomizik",
+      "published": "2022-10-23T13:42:01Z",
+      "duration": 2804
+    },
+    {
+      "id": "dqoMLFAsc-8",
+      "title": "Eritrean Jazz, Soul & Traditional Grooves with Nahom from Eritrean Anthology",
+      "published": "2022-10-16T11:31:42Z",
+      "duration": 2597
+    },
+    {
+      "id": "JUOB6QhXwDg",
+      "title": "Salsa from Beyond with María Latina",
+      "published": "2022-10-09T13:08:29Z",
+      "duration": 2051
+    },
+    {
+      "id": "LIkQ6u5_uMM",
+      "title": "Spanish Psychedelic Grooves with Glossy Mario (Glossy Mistakes)",
+      "published": "2022-10-02T19:05:31Z",
+      "duration": 2015
+    },
+    {
+      "id": "E2FEc-3k40U",
+      "title": "Japanese City Pop on vinyl with Shaqdi",
+      "published": "2022-09-25T11:04:16Z",
+      "duration": 2619
+    },
+    {
+      "id": "tqNl5IPtbU0",
+      "title": "Jazz-Funk, Disco and Gospel with Charlie Dark b2b Zag",
+      "published": "2022-09-18T11:29:24Z",
+      "duration": 3948
+    },
+    {
+      "id": "vEAbh-3E7yU",
+      "title": "South African Boogie, Bubblegum, & Kwaito with Brother Dan (Terrestrial Funk)",
+      "published": "2022-09-11T11:15:35Z",
+      "duration": 3253
+    },
+    {
+      "id": "Beld090NIoo",
+      "title": "Percussive Dub, Spiritual Jazz & Psychedelic Grooves with Millie McKee",
+      "published": "2022-09-04T12:18:08Z",
+      "duration": 3298
+    },
+    {
+      "id": "CUpmhfNwG2M",
+      "title": "Funky Drum Machine Soul and Boogie with Zag & Kay Suzuki",
+      "published": "2022-08-28T11:08:17Z",
+      "duration": 3601
+    },
+    {
+      "id": "5UuQRUhHoTY",
+      "title": "Zag tries to keep up with Habibi Funk's selection 🎶 ☕️",
+      "published": "2022-08-21T12:14:53Z",
+      "duration": 3253
+    },
+    {
+      "id": "ESDGMR73MtU",
+      "title": "Experimental, Ambient & Contemporary Classical with Zag and Ceylan",
+      "published": "2022-08-14T12:00:07Z",
+      "duration": 2754
+    },
+    {
+      "id": "MjL0ipgT7xg",
+      "title": "Foundation Roots Reggae with Danniella Dee",
+      "published": "2022-08-07T11:20:00Z",
+      "duration": 2357
+    },
+    {
+      "id": "5JSOuUn9BiY",
+      "title": "Imaginary Soundtrack for our Drama/Romance Movie",
+      "published": "2022-07-31T11:30:03Z",
+      "duration": 2229
+    },
+    {
+      "id": "Zi_nhhzzWKE",
+      "title": "Gia Plays Salsa Records b2b with Zag",
+      "published": "2022-07-24T18:07:16Z",
+      "duration": 2919
+    },
+    {
+      "id": "NZ_iuRXT_zU",
+      "title": "Imaginary Soundtrack for our Comedy/Crime/Thriller Movie",
+      "published": "2022-07-17T12:42:45Z",
+      "duration": 2346
+    },
+    {
+      "id": "GifJm-uNI8w",
+      "title": "Afro-Cuban & Latin Jazz Grooves with Zag and Coco Maria",
+      "published": "2022-07-10T11:11:28Z",
+      "duration": 3259
+    },
+    {
+      "id": "4qu0N4z2-zU",
+      "title": "East Mediterranean Grooves with Sven Wunder",
+      "published": "2022-07-03T11:01:16Z",
+      "duration": 2689
+    },
+    {
+      "id": "_EKh6b3I91A",
+      "title": "Calming Jazz Records That Will Feed Your Soul",
+      "published": "2022-06-26T11:39:41Z",
+      "duration": 3879
+    },
+    {
+      "id": "2FpUrWEbr3w",
+      "title": "Musica Brasileira with Tim Garcia",
+      "published": "2022-06-22T08:56:01Z",
+      "duration": 2326
+    },
+    {
+      "id": "ePZuJl06AuU",
+      "title": "UK Jazz and Groove with Tina Edwards",
+      "published": "2022-06-19T12:01:58Z",
+      "duration": 2672
+    },
+    {
+      "id": "Dm4HUjunhQU",
+      "title": "Space Funk and Cosmic Jazz Beats with Micaela Grei",
+      "published": "2022-06-05T11:01:56Z",
+      "duration": 3240
+    },
+    {
+      "id": "scQuAp2i1to",
+      "title": "Japanese Funk and Soul That Will Brighten Up Your Day",
+      "published": "2022-05-29T11:41:54Z",
+      "duration": 2864
+    },
+    {
+      "id": "Kbn5LmLtcvE",
+      "title": "Ryan plays his favourite '90s Hip-Hop records at Mastersounds HQ",
+      "published": "2022-05-22T19:34:59Z",
+      "duration": 2086
+    },
+    {
+      "id": "KGPhGui0U-g",
+      "title": "Guest Mix: Salsa Records from Venezuela with Gia Fu",
+      "published": "2022-05-15T11:59:22Z",
+      "duration": 2703
+    },
+    {
+      "id": "Cw3LTAXnFe8",
+      "title": "Zag plays Japanese Jazz Records at Mastersounds HQ",
+      "published": "2022-05-02T08:46:36Z",
+      "duration": 2902
+    },
+    {
+      "id": "Tr2lU_IeusE",
+      "title": "Tropical Zouk from the French Antilles with Distant Rhythm",
+      "published": "2022-04-24T12:48:50Z",
+      "duration": 2300
+    },
+    {
+      "id": "a01M8i1mF5s",
+      "title": "Brit-funk & Street Soul with Laani",
+      "published": "2022-04-17T11:56:53Z",
+      "duration": 2580
+    },
+    {
+      "id": "2w7WkDpbp9E",
+      "title": "Brazilian Tunes from Salvador to Sergipe with Batukizer",
+      "published": "2022-04-10T11:32:03Z",
+      "duration": 2547
+    },
+    {
+      "id": "7tOmZd2cgIg",
+      "title": "Disco/Boogie (Burger Hilife) Records from Ghana with Volta 45",
+      "published": "2022-04-03T09:31:28Z",
+      "duration": 2771
+    },
+    {
+      "id": "yhYFCfiQtZo",
+      "title": "Calypso Funk & Island Grooves with Rook Records",
+      "published": "2022-03-20T15:17:15Z",
+      "duration": 2661
+    },
+    {
+      "id": "hw9JuwianYU",
+      "title": "Records from Sierra Leone with Nadeem Din-Gabisi",
+      "published": "2022-03-13T14:43:29Z",
+      "duration": 2743
+    },
+    {
+      "id": "qYY5vrW1eQk",
+      "title": "Swedish Grooves with Pjamashuset",
+      "published": "2022-03-06T12:46:18Z",
+      "duration": 2264
+    },
+    {
+      "id": "YpRcemoElUw",
+      "title": "Gwoka Moderne from Guadeloupe with Cédric Lassonde",
+      "published": "2022-02-06T13:28:08Z",
+      "duration": 2879
+    },
+    {
+      "id": "QyuvqjpMehs",
+      "title": "The Spice Trade Route (Indo-Arabian Exchange) with Dar Disku",
+      "published": "2022-01-23T13:39:41Z",
+      "duration": 2870
+    },
+    {
+      "id": "vJPflOuX1YA",
+      "title": "Guest Mix: Contemporary Brazilian Music (MPBC) with Gerah",
+      "published": "2022-01-16T12:56:15Z",
+      "duration": 2916
+    },
+    {
+      "id": "PGdXjTxZU84",
+      "title": "Nuyorican Funk & Latin Jazz Fusion with Vandorta",
+      "published": "2022-01-09T09:12:03Z",
+      "duration": 2151
+    },
+    {
+      "id": "UfqPBM5N4xs",
+      "title": "Favourite Turkish Compilations and Reissues",
+      "published": "2021-12-12T13:05:55Z",
+      "duration": 2115
+    },
+    {
+      "id": "BbxGSdX1Hms",
+      "title": "Turkish Duos: Pop, Folk & Jazz",
+      "published": "2021-11-28T12:22:04Z",
+      "duration": 1706
+    },
+    {
+      "id": "55fixYqBXhk",
+      "title": "Dub, Roots and Lovers Rock with Haseeb Iqbal",
+      "published": "2021-11-22T13:54:29Z",
+      "duration": 2616
+    },
+    {
+      "id": "u0AM8N_H7wA",
+      "title": "Orchestral French Funk with Kit Sebastian",
+      "published": "2021-11-14T15:15:07Z",
+      "duration": 2329
+    },
+    {
+      "id": "PB_pAYFJlWA",
+      "title": "Colombian Picó with Edna Martinez",
+      "published": "2021-11-08T12:31:12Z",
+      "duration": 2667
+    },
+    {
+      "id": "_i5xDTrxCnc",
+      "title": "Turkish New Wave: Modern Turkish Sounds (Re-Upload)",
+      "published": "2021-11-03T11:16:04Z",
+      "duration": 1714
+    },
+    {
+      "id": "RyaKj4r71qk",
+      "title": "Records from Brazil with Miche",
+      "published": "2021-10-17T11:32:22Z",
+      "duration": 2503
+    },
+    {
+      "id": "3oJrinhVbSY",
+      "title": "Afro Cuban Jazz & Guaguanco from New York with Lex Blondin",
+      "published": "2021-10-10T11:06:57Z",
+      "duration": 2118
+    },
+    {
+      "id": "hc_K_vEcADE",
+      "title": "Records from South America with Alma De La Selva",
+      "published": "2021-10-04T11:30:07Z",
+      "duration": 2705
+    },
+    {
+      "id": "lEi7Q25zMAQ",
+      "title": "Saz Beats: Organic Turkish Anatolian Grooves",
+      "published": "2021-09-26T12:01:00Z",
+      "duration": 1918
+    },
+    {
+      "id": "Hj_gP9J8zN0",
+      "title": "Records from Lebanon with Ernesto Chahoud",
+      "published": "2021-09-19T11:15:45Z",
+      "duration": 2838
+    },
+    {
+      "id": "FCpsbpIs3wU",
+      "title": "Eastern European Jazz and Disco with DYYU∩E",
+      "published": "2021-09-13T13:13:15Z",
+      "duration": 2642
+    },
+    {
+      "id": "k4hYHVb0qsM",
+      "title": "Brit Funk Records with Kirollus",
+      "published": "2021-08-30T14:14:35Z",
+      "duration": 2228
+    },
+    {
+      "id": "0c78rU9KTH0",
+      "title": "Records from Zambia with Tambourine Party",
+      "published": "2021-08-24T10:09:49Z",
+      "duration": 2779
+    },
+    {
+      "id": "4i69eboND5A",
+      "title": "Slow Turkish Gems: Female Singers",
+      "published": "2021-08-15T11:38:25Z",
+      "duration": 2366
+    },
+    {
+      "id": "kx_LgXd0uAk",
+      "title": "Latin Influenced South East Asia with Norsicaa",
+      "published": "2021-08-08T13:05:35Z",
+      "duration": 2638
+    },
+    {
+      "id": "G7pmOCsI-1o",
+      "title": "Female Soul from Hungary with Budabeats Records",
+      "published": "2021-08-01T13:10:02Z",
+      "duration": 2292
+    },
+    {
+      "id": "OQ8MhugmEAg",
+      "title": "Turkish Arabesque Funk: Female Singers",
+      "published": "2021-07-25T11:30:57Z",
+      "duration": 2429
+    },
+    {
+      "id": "T3fJnFkRJCk",
+      "title": "Records from Uruguay with Cosmo Sofi",
+      "published": "2021-07-20T11:50:06Z",
+      "duration": 2446
+    },
+    {
+      "id": "Din7uAbZu-c",
+      "title": "Jazz Records from Japan with Tony Higgins",
+      "published": "2021-07-11T11:45:28Z",
+      "duration": 1899
+    },
+    {
+      "id": "xQN2Twmtdfo",
+      "title": "Roots Reggae and Classic Dancehall with Charlie Dark",
+      "published": "2021-07-04T12:00:40Z",
+      "duration": 3114
+    },
+    {
+      "id": "NKNb_HVZeRw",
+      "title": "Turkish Disco and Funk on vinyl",
+      "published": "2021-06-27T11:37:09Z",
+      "duration": 2381
+    },
+    {
+      "id": "E_b-Q0xiTmo",
+      "title": "Colombian Salsa Records with Gia Fu",
+      "published": "2021-06-20T11:10:20Z",
+      "duration": 2640
+    },
+    {
+      "id": "HS0hIIVz_eY",
+      "title": "Selection of Colombian Cumbia with María Latina",
+      "published": "2021-06-06T13:55:34Z",
+      "duration": 1986
+    },
+    {
+      "id": "NGtA1lr86TY",
+      "title": "Hardcore Punk with Mu Tunç",
+      "published": "2021-05-30T11:05:12Z",
+      "duration": 2539
+    },
+    {
+      "id": "fftQIzgI0m0",
+      "title": "Reggae Inspired Japanese City Pop",
+      "published": "2021-05-23T11:27:53Z",
+      "duration": 1932
+    },
+    {
+      "id": "9AnYM5h0dc4",
+      "title": "Kreyol Sounds with AjiByrd",
+      "published": "2021-05-09T10:59:23Z",
+      "duration": 2627
+    },
+    {
+      "id": "3oofyLCxOVg",
+      "title": "'70s Indonesian Psych, Funk & Disco with Westside MuzeeQ",
+      "published": "2021-05-02T11:23:59Z",
+      "duration": 2711
+    },
+    {
+      "id": "ssBzlxsvCk8",
+      "title": "Arabic Grooves with Shaqdi",
+      "published": "2021-04-25T11:00:53Z",
+      "duration": 2916
+    },
+    {
+      "id": "xxLlgik2Dvg",
+      "title": "Records from Zaïre with All Rights Deserved (7\" Special)",
+      "published": "2021-04-18T10:18:24Z",
+      "duration": 2459
+    },
+    {
+      "id": "KIHLQzGap4Y",
+      "title": "Flamenco and Rumba with laguerradelasgalaxias",
+      "published": "2021-04-11T11:47:15Z",
+      "duration": 2649
+    },
+    {
+      "id": "RR5hy5LMNrk",
+      "title": "Records From India",
+      "published": "2021-04-04T11:37:23Z",
+      "duration": 2227
+    },
+    {
+      "id": "F8M3UKx7WkQ",
+      "title": "Brazilian Samba Grooves with Carla from Batukizer (EVFB)",
+      "published": "2021-03-28T10:29:56Z",
+      "duration": 2232
+    },
+    {
+      "id": "O0531evIYoc",
+      "title": "French Caribbean Records With Poly-Ritmo",
+      "published": "2021-03-14T12:32:22Z",
+      "duration": 2577
+    },
+    {
+      "id": "zUIhr_rx7Qs",
+      "title": "Records from Poland",
+      "published": "2021-03-07T12:27:01Z",
+      "duration": 2101
+    },
+    {
+      "id": "k8OwzWNZEUI",
+      "title": "Psychedelic Cumbia with Krishna Villar",
+      "published": "2021-02-28T13:44:03Z",
+      "duration": 1556
+    },
+    {
+      "id": "hYVlS6FW4Kk",
+      "title": "Italian Experimental Obscurities, Soundtracks and Library Music",
+      "published": "2021-02-21T12:33:36Z",
+      "duration": 2331
+    },
+    {
+      "id": "oE-X3Wrt7fI",
+      "title": "Guest Mix: Armenian Records from Beirut with Habibi Funk",
+      "published": "2021-02-14T11:08:24Z",
+      "duration": 2387
+    },
+    {
+      "id": "yPrev0Nsccw",
+      "title": "Turkish '60s on vinyl (Beat, Surf & Garage Rock)",
+      "published": "2021-02-07T14:46:49Z",
+      "duration": 1919
+    },
+    {
+      "id": "LU8ljrsgBY8",
+      "title": "Guest Mix: Records from Africa with Nabihah Iqbal",
+      "published": "2021-01-31T13:30:52Z",
+      "duration": 2521
+    },
+    {
+      "id": "NoGO2wmpDUI",
+      "title": "Soviet Jazz on Vinyl",
+      "published": "2021-01-24T13:16:44Z",
+      "duration": 2587
+    },
+    {
+      "id": "aXY-u5_f3Rk",
+      "title": "Guest Mix: Greek Folk Records with Psychophono (7\" Special)",
+      "published": "2021-01-17T13:21:35Z",
+      "duration": 2711
+    },
+    {
+      "id": "4JR2ssY5Vyw",
+      "title": "Japanese Jazz on Vinyl",
+      "published": "2021-01-10T11:18:03Z",
+      "duration": 3374
+    },
+    {
+      "id": "6GwdWSx8v0c",
+      "title": "Peruvian Chicha/Cumbia with Cal Jader",
+      "published": "2021-01-03T16:37:21Z",
+      "duration": 2985
+    },
+    {
+      "id": "PWlDvtnq74M",
+      "title": "Records from Panama with Jota Ortiz (7\" Special)",
+      "published": "2020-12-21T13:45:01Z",
+      "duration": 2576
+    },
+    {
+      "id": "NFjBI_qTrTQ",
+      "title": "UK Jazz on Vinyl",
+      "published": "2020-12-14T15:17:37Z",
+      "duration": 3924
+    },
+    {
+      "id": "yzfGJSOKXag",
+      "title": "Oud Masters on Vinyl",
+      "published": "2020-11-29T11:53:37Z",
+      "duration": 3151
+    },
+    {
+      "id": "90KXOaOXnuE",
+      "title": "'70s Czechoslovakian Jazz with Magič",
+      "published": "2020-11-22T12:28:13Z",
+      "duration": 2138
+    },
+    {
+      "id": "l0YaT-OqGZs",
+      "title": "Congolese Rumba Records (7\" Special)",
+      "published": "2020-11-15T11:32:40Z",
+      "duration": 2483
+    },
+    {
+      "id": "Vj3M2aiyUrQ",
+      "title": "80's Brazilian Boogie & Electro with Millos Kaiser (7\" Special)",
+      "published": "2020-11-08T12:29:50Z",
+      "duration": 3032
+    },
+    {
+      "id": "Py3t6WH0yAA",
+      "title": "CBS: Records From Lebanon",
+      "published": "2020-11-01T20:34:50Z",
+      "duration": 2412
+    },
+    {
+      "id": "StjCenVMkVs",
+      "title": "Guest Mix: Turkish Cassette Tapes with Tuna Aydınlıoğlu",
+      "published": "2020-10-25T13:00:32Z",
+      "duration": 1592
+    },
+    {
+      "id": "kDfzd360aDM",
+      "title": "CBS: Salsa and Latin Jazz Records",
+      "published": "2020-10-18T10:34:41Z",
+      "duration": 2458
+    },
+    {
+      "id": "LhlluFA_tCQ",
+      "title": "Guest Mix: Private Label Selection from Brazil with Batukizer",
+      "published": "2020-10-11T11:45:59Z",
+      "duration": 2513
+    },
+    {
+      "id": "uCsHKeKChZk",
+      "title": "Rare Turkish Pop, Rock and Jazz Records",
+      "published": "2020-10-04T09:57:30Z",
+      "duration": 1823
+    },
+    {
+      "id": "tff05ZOmdro",
+      "title": "Guest Mix: 60's French Beat, Garage and Yé-yé on vinyl with Can Plak",
+      "published": "2020-09-27T10:05:01Z",
+      "duration": 1802
+    },
+    {
+      "id": "9KiCt-7k8pg",
+      "title": "Rare Turkish Anatolian Rock, Funk & Jazz",
+      "published": "2020-09-20T10:59:22Z",
+      "duration": 1742
+    },
+    {
+      "id": "5Yk5An-hkQE",
+      "title": "Guest Mix: Eastern European Ladies on Vinyl with Ladies on Records",
+      "published": "2020-09-13T10:01:56Z",
+      "duration": 2705
+    },
+    {
+      "id": "OIZ7-gY18io",
+      "title": "Turkish Female Singers on Vinyl",
+      "published": "2020-09-06T10:30:35Z",
+      "duration": 2195
+    },
+    {
+      "id": "aC8KjG9SM30",
+      "title": "Guest Mix: Afro Cuban/Latin Jazz on Vinyl with Salt Cathedral",
+      "published": "2020-08-30T10:35:13Z",
+      "duration": 2694
+    },
+    {
+      "id": "C9vxKrV38s4",
+      "title": "CBS: Jazz Records from Yugoslavia",
+      "published": "2020-08-23T10:39:37Z",
+      "duration": 1941
+    },
+    {
+      "id": "YVEYtLg5Plk",
+      "title": "Guest Mix: Brazilian Forró on vinyl with Worm Disco Club",
+      "published": "2020-08-16T09:24:25Z",
+      "duration": 2917
+    },
+    {
+      "id": "5i5fGT06WQs",
+      "title": "CBS: Records From Estonia",
+      "published": "2020-08-09T11:20:37Z",
+      "duration": 2080
+    },
+    {
+      "id": "gfzqfZsm5dM",
+      "title": "Guest Mix: Records from South East Asia with Zudrangma Records",
+      "published": "2020-08-02T11:01:06Z",
+      "duration": 2134
+    },
+    {
+      "id": "_LuNgNmKVY8",
+      "title": "CBS: Jazz Records From Romania",
+      "published": "2020-07-26T11:33:40Z",
+      "duration": 2385
+    },
+    {
+      "id": "J6j-iUloB3o",
+      "title": "Guest Mix: Brazilian Bossa Jazz with Palo Santo Discos",
+      "published": "2020-07-19T11:00:03Z",
+      "duration": 2270
+    },
+    {
+      "id": "C5xDGXdfYcY",
+      "title": "CBS: Jazz Records from Bulgaria",
+      "published": "2020-07-12T10:35:18Z",
+      "duration": 2570
+    },
+    {
+      "id": "ziywx5vexJM",
+      "title": "Guest Mix: Indian Ladies on Vinyl with Nishant Mittal aka Digging In India",
+      "published": "2020-07-05T11:00:52Z",
+      "duration": 3400
+    },
+    {
+      "id": "ZZ43Hq7jFeo",
+      "title": "Guest Mix: Rare Records from USSR with Adam Kvasnica",
+      "published": "2020-06-21T11:36:04Z",
+      "duration": 2792
+    },
+    {
+      "id": "2kPtBd50Umo",
+      "title": "Ladies of Anatolian Pop",
+      "published": "2020-06-14T10:26:29Z",
+      "duration": 2080
+    },
+    {
+      "id": "pakeEZFvG_U",
+      "title": "Guest Mix: Cumbia Selection with Coco Maria",
+      "published": "2020-06-07T10:01:50Z",
+      "duration": 2476
+    },
+    {
+      "id": "KC5yuzh3gXE",
+      "title": "CBS: Pop Rock and Funk Records from Yugoslavia",
+      "published": "2020-05-31T09:51:01Z",
+      "duration": 1999
+    },
+    {
+      "id": "eQdKyQEaeqk",
+      "title": "Guest Mix: Records from Brazil with Poly-Ritmo",
+      "published": "2020-05-24T10:00:02Z",
+      "duration": 2769
+    },
+    {
+      "id": "jOUtIdXVySA",
+      "title": "CBS: Female Japanese Singers from the '80s (Pop-Rock, City Pop & Disco)",
+      "published": "2020-05-17T09:53:33Z",
+      "duration": 2438
+    },
+    {
+      "id": "HxaM6UJpAyg",
+      "title": "Guest Mix: Arabic Tapes and Records with Habibi Funk",
+      "published": "2020-05-10T09:31:32Z",
+      "duration": 3544
+    },
+    {
+      "id": "WnnuU84S9rg",
+      "title": "Soulful and Jazzy Records from Brazil",
+      "published": "2020-05-03T10:17:13Z",
+      "duration": 2143
+    },
+    {
+      "id": "solmfNYP9b4",
+      "title": "Guest Mix: Sounds from Trinidad and Tobago with Archive Digital",
+      "published": "2020-04-26T10:10:32Z",
+      "duration": 2058
+    },
+    {
+      "id": "AkDeAt3EOIc",
+      "title": "Rare Turkish Records",
+      "published": "2020-04-19T10:11:38Z",
+      "duration": 1833
+    },
+    {
+      "id": "9j1QdOfd41w",
+      "title": "Guest Mix: Cuban Sounds with Lilli de Penya",
+      "published": "2020-04-05T09:46:53Z",
+      "duration": 2617
+    },
+    {
+      "id": "DRAtF81LE6s",
+      "title": "Turkish Jazz on Vinyl",
+      "published": "2020-03-29T09:42:56Z",
+      "duration": 2259
+    },
+    {
+      "id": "GHaL5H-VYRg",
+      "title": "Live Stream: Favourite B-Side Tracks",
+      "published": "2020-03-18T18:38:02Z",
+      "duration": 6190
+    },
+    {
+      "id": "nxUHzcNZdGs",
+      "title": "Guest Mix: British Jazz with Rebecca Vasmant",
+      "published": "2020-03-08T10:30:02Z",
+      "duration": 2410
+    },
+    {
+      "id": "lQbrlQn4mao",
+      "title": "CBS: Rare Japanese Records Vinyl Set",
+      "published": "2020-03-01T10:28:09Z",
+      "duration": 1785
+    },
+    {
+      "id": "4fd1oWIPylo",
+      "title": "Guest Mix: Italian Rhythms with Francesco",
+      "published": "2020-02-16T10:30:01Z",
+      "duration": 2056
+    },
+    {
+      "id": "c4SxNIuRSQM",
+      "title": "CBS: Bollywood Grooves Vinyl Set",
+      "published": "2020-02-02T10:30:00Z",
+      "duration": 2270
+    },
+    {
+      "id": "Q1EMNZ5g8mg",
+      "title": "CBS: Jazz From USSR Vinyl Set",
+      "published": "2020-01-19T10:29:29Z",
+      "duration": 2801
+    },
+    {
+      "id": "8hZbhsjtZoE",
+      "title": "Guest Mix: '80s & '90s UK Soundsystem with Ash",
+      "published": "2020-01-05T09:57:29Z",
+      "duration": 2174
+    },
+    {
+      "id": "TJueXW497iM",
+      "title": "CBS: Pop Funk from Asia (1976-1982)",
+      "published": "2019-12-22T08:30:01Z",
+      "duration": 1963
+    },
+    {
+      "id": "Uf8OxKUKtPQ",
+      "title": "Guest Mix: Middle Eastern Grooves with DJ Kobayashi",
+      "published": "2019-12-08T09:30:01Z",
+      "duration": 2306
+    },
+    {
+      "id": "44Q5VePSaCs",
+      "title": "CBS: USSR Grooves Vinyl Set",
+      "published": "2019-11-17T09:52:22Z",
+      "duration": 2204
+    },
+    {
+      "id": "w0jyU13gtBs",
+      "title": "CBS: 70's Turkish Anatolian Rock Vinyl Set",
+      "published": "2019-11-06T09:46:47Z",
+      "duration": 2266
+    },
+    {
+      "id": "aXMX0sAL9bQ",
+      "title": "CBS: African Grooves Vinyl Set",
+      "published": "2019-10-27T10:18:30Z",
+      "duration": 2722
+    },
+    {
+      "id": "XASxefdL2eQ",
+      "title": "CBS: Japanese Drama Funk & OST vinyl set",
+      "published": "2019-10-13T10:05:05Z",
+      "duration": 1859
+    },
+    {
+      "id": "2rxG8quzCtA",
+      "title": "CBS: Brazilian Grooves Vinyl Set",
+      "published": "2019-09-22T08:54:35Z",
+      "duration": 1797
+    },
+    {
+      "id": "6b7qK4SmKT8",
+      "title": "CBS: Arabic Grooves Vinyl Set",
+      "published": "2019-09-08T06:29:14Z",
+      "duration": 1737
+    },
+    {
+      "id": "Zz6oob45faU",
+      "title": "CBS: Japanese Jazz from '70s Vinyl Set",
+      "published": "2019-08-24T10:02:38Z",
+      "duration": 2023
+    },
+    {
+      "id": "qMSG4fLMepw",
+      "title": "CBS: Turkish Female Singers from '70s Vinyl Set",
+      "published": "2019-08-11T10:09:32Z",
+      "duration": 2037
+    },
+    {
+      "id": "EVI17zLouq0",
+      "title": "Arabic and Persian Pop, Folk and Funk on Vinyl",
+      "published": "2019-05-26T08:30:33Z",
+      "duration": 3656
+    },
+    {
+      "id": "9ZqGjITub5c",
+      "title": "Japanese City-Pop, Synth Pop and Jazz Vinyl Set",
+      "published": "2019-04-20T08:34:03Z",
+      "duration": 3337
+    },
+    {
+      "id": "j7CGhctNNAg",
+      "title": "Turkish Instrumental Music from 70's Vinyl Set",
+      "published": "2019-03-11T08:04:21Z",
+      "duration": 3320
+    },
+    {
+      "id": "pwa4U0ccECY",
+      "title": "Japanese City Pop and Jazz-Funk Vinyl Set",
+      "published": "2019-01-27T12:03:41Z",
+      "duration": 4030
+    },
+    {
+      "id": "-O-HHi_0vsg",
+      "title": "Brazilian Soul, Funk and Jazz on Vinyl",
+      "published": "2019-01-15T10:54:29Z",
+      "duration": 3734
+    },
+    {
+      "id": "jXVAeSlvjXU",
+      "title": "African Soul, Afro-beat, Funk, Cumbia and Jazz Vinyl Set",
+      "published": "2018-12-20T18:47:14Z",
+      "duration": 5559
+    },
+    {
+      "id": "O-28qkBb0H8",
+      "title": "Japanese City Pop, Soul and Jazz Vinyl Set",
+      "published": "2018-12-05T13:04:39Z",
+      "duration": 3575
+    },
+    {
+      "id": "PKwW1neNNdo",
+      "title": "Turkish 70's Funk and Anatolian Rock Vinyl Set (Part V)",
+      "published": "2018-11-13T08:41:14Z",
+      "duration": 3978
+    },
+    {
+      "id": "4GbCrXxIJX4",
+      "title": "Turkish 70's Funk and Anatolian Rock Vinyl Set (Part IV)",
+      "published": "2018-08-06T00:18:23Z",
+      "duration": 3345
+    },
+    {
+      "id": "YvckZL322II",
+      "title": "Turkish 70's Funk and Anatolian Rock on Vinyl (Part III)",
+      "published": "2018-05-22T09:04:39Z",
+      "duration": 3761
+    },
+    {
+      "id": "TEXZSzPpZqo",
+      "title": "Japanese Funk and Soul on Vinyl (late 70's, early 80's)",
+      "published": "2018-04-08T09:05:43Z",
+      "duration": 3184
+    },
+    {
+      "id": "HJSdBc85LE0",
+      "title": "Turkish 70's Funk and Anatolian Rock on Vinyl (Part II)",
+      "published": "2018-04-01T10:00:38Z",
+      "duration": 3667
+    },
+    {
+      "id": "BSCHR7yNkV8",
+      "title": "70's World Funk on Vinyl: Brazilian and African Funk",
+      "published": "2018-02-20T09:59:01Z",
+      "duration": 3674
+    }
+  ]
+}

@@ -1,8 +1,14 @@
 {
   "channel": "@MyAnalogJournal",
-  "updated": "2026-09-05T14:36:08.837263+00:00",
+  "updated": "2026-09-06T14:56:24.950198+00:00",
   "min_duration": 1500,
   "videos": [
+    {
+      "id": "3fTjXz9GNi4",
+      "title": "A Continental Trip through Folk, Electronic and Disco with Ana Flavia",
+      "published": "2026-09-06T10:10:28Z",
+      "duration": 2646
+    },
     {
       "id": "XdWAmu9AMnA",
       "title": "Transmigration: Music in Transit (1968–1975) with Eren Eren",

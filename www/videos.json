@@ -1,8 +1,14 @@
 {
   "channel": "@MyAnalogJournal",
-  "updated": "2026-09-12T14:59:42.544310+00:00",
+  "updated": "2026-09-13T15:37:35.241932+00:00",
   "min_duration": 1500,
   "videos": [
+    {
+      "id": "YHXH60HooYk",
+      "title": "'70s Psychedelia & Soundtrack Gems with PARATONEL",
+      "published": "2026-09-13T10:57:50Z",
+      "duration": 2149
+    },
     {
       "id": "3fTjXz9GNi4",
       "title": "A Continental Trip through Folk, Electronic and Disco with Ana Flavia",

@@ -1,8 +1,14 @@
 {
   "channel": "@MyAnalogJournal",
-  "updated": "2026-09-26T15:47:27.312446+00:00",
+  "updated": "2026-09-27T16:24:48.141127+00:00",
   "min_duration": 1500,
   "videos": [
+    {
+      "id": "DPMz6BmQvNw",
+      "title": "Date Night: Balearic Soul, Cosmic Jazz-Funk & Disco",
+      "published": "2026-09-27T14:33:47Z",
+      "duration": 3005
+    },
     {
       "id": "YHXH60HooYk",
       "title": "'70s Psychedelia & Soundtrack Gems with PARATONEL",

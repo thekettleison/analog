@@ -1,8 +1,14 @@
 {
   "channel": "@MyAnalogJournal",
-  "updated": "2026-10-03T15:43:35.710449+00:00",
+  "updated": "2026-10-04T16:26:27.490833+00:00",
   "min_duration": 1500,
   "videos": [
+    {
+      "id": "M2DqIz7BZ3g",
+      "title": "Digging the MPC Jams: ’90s - ’00s Slow Grooves with BabyBass",
+      "published": "2026-10-04T08:18:51Z",
+      "duration": 2797
+    },
     {
       "id": "DPMz6BmQvNw",
       "title": "Date Night: Balearic Soul, Cosmic Jazz-Funk & Disco",

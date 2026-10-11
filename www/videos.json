@@ -1,8 +1,14 @@
 {
   "channel": "@MyAnalogJournal",
-  "updated": "2026-10-10T16:58:37.410630+00:00",
+  "updated": "2026-10-11T17:20:04.746365+00:00",
   "min_duration": 1500,
   "videos": [
+    {
+      "id": "7oa2SAt8_TA",
+      "title": "Bollicine: A Cosmic Ride with Peppe Moffa",
+      "published": "2026-10-11T08:32:30Z",
+      "duration": 2788
+    },
     {
       "id": "M2DqIz7BZ3g",
       "title": "Digging the MPC Jams: ’90s - ’00s Slow Grooves with BabyBass",

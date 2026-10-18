@@ -1,8 +1,14 @@
 {
   "channel": "@MyAnalogJournal",
-  "updated": "2026-10-17T14:58:08.717322+00:00",
+  "updated": "2026-10-18T15:23:21.162513+00:00",
   "min_duration": 1500,
   "videos": [
+    {
+      "id": "elgMMFVZVyk",
+      "title": "Sunday Brunch: Funk, Disco & Polyrhythms with Shaqdi",
+      "published": "2026-10-18T07:46:56Z",
+      "duration": 2449
+    },
     {
       "id": "7oa2SAt8_TA",
       "title": "A Soulful Cosmic Ride with Peppe Moffa",

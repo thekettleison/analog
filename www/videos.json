@@ -1,8 +1,14 @@
 {
   "channel": "@MyAnalogJournal",
-  "updated": "2026-10-24T15:23:38.101836+00:00",
+  "updated": "2026-10-25T15:33:54.022918+00:00",
   "min_duration": 1500,
   "videos": [
+    {
+      "id": "_QcW2UT2QKs",
+      "title": "My Autumn Soundtrack with John Henriksson (Piano Piano)",
+      "published": "2026-10-25T10:00:43Z",
+      "duration": 3026
+    },
     {
       "id": "elgMMFVZVyk",
       "title": "Sunday Brunch: Funk, Disco & Polyrhythms with Shaqdi",
